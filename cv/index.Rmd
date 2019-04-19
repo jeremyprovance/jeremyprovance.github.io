@@ -2,6 +2,8 @@
 output: html_document
 ---
 
-# Jeremy Provance, M.S. Curriculum Vitae
+# Jeremy Provance, M.S. *Curriculum Vitae*
 
-Testing whether or not markdown transfers work.
+EDUCATION
+August 2017-
+**Doctoral Student**
