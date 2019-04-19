@@ -6,5 +6,10 @@ output: html_document
 EDUCATION  
 August 2017-  
 **Doctoral Student**  
+Primary Discipline: Biomedical & Health Informatics (Univeristy of Missouri-Kansas City School of Medicine)  
+Co-discipline: Entreprenuership & Innovation (Henry W. Bloch School of Management)  
+Primary Doctoral Mentor: Kim G. Smolderen, Ph.D.  
+Graduate Research Assistantship: Cardiovascular Disease Outcomes Research (Saint Luke's Mid America Heart Institute, Kansas City, Missouri)  
 ***
+
 [Home](https://jeremyprovance.github.io/)
