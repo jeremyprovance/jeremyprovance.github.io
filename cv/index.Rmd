@@ -1,11 +1,10 @@
 ---
-title: "Jeremy Provance, M.S. Curriculum Vitae"
+title: "Jeremy Provance, M.S. *Curriculum Vitae*"
 output: html_document
 ---
-
-### Jeremy Provance, M.S. *Curriculum Vitae*
 ***
 EDUCATION  
 August 2017-  
-**Doctoral Student**
+**Doctoral Student**  
 ***
+[Home](https://jeremyprovance.github.io/)
