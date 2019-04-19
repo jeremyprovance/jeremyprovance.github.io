@@ -24,4 +24,27 @@ Major: Biology
 Institution: William Jewell College (Liberty, Missouri)  
 Faculty Mentors: Scott Falke, PhD; Tara Allen, PhD  
 Senior Research Project Title: Fermentation Vessel Geometry Effects on S. cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis  
+***  
+WORK EXPERIENCE
+
+December 2015-  
+**Software Support Analyst**  
+UMKC School of Medicine, Department of Biomedical & Health Informatics, Center for Health Insights  
+  *Manage installations of REDCap and i2b2 software platforms for UMKC School of Medicine and Truman Medical Center research stakeholders  
++ Completed user implementation of i2b2 software package in April 2016  
++ Experienced with Cerner Health Facts, Microsoft HoloLens, Oculus Rift, Ingenuity Pathways Analysis, Unity, and DNAStar software platforms  
+
+January 2015-December 2015  
+**Microbiologist**  
+Boulevard Brewing Company (Kansas City, Missouri)  
+*Managed microbiology quality control and analysis lab operations  
+* Propagated proprietary brewery yeast strains  
+* Implemented qPCR analysis pipeline  
+* Trained in chemical and physical analysis methods  
+
+May 2014-December 2014  
+**Production Brewer**  
+Tallgrass Brewing Company (Manhattan, Kansas)  
+*Developed post-packaging beer microbial stability program
+*Developed environmental and sustainability programs  
 ***
