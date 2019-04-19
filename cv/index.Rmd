@@ -1,4 +1,5 @@
 ---
+title: "Jeremy Provance, M.S. Curriculum Vitae"
 output: html_document
 ---
 
@@ -7,3 +8,4 @@ output: html_document
 EDUCATION  
 August 2017-  
 **Doctoral Student**
+***
