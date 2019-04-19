@@ -4,6 +4,7 @@ output: html_document
 ---
 ***
 EDUCATION  
+
 August 2017-  
 **Doctoral Student**  
 Primary Discipline: Biomedical & Health Informatics (Univeristy of Missouri-Kansas City School of Medicine)  
@@ -22,6 +23,5 @@ August 2010-May 2014
 Major: Biology  
 Institution: William Jewell College (Liberty, Missouri)  
 Faculty Mentors: Scott Falke, PhD; Tara Allen, PhD  
-Senior Research Project Title: Fermentation Vessel Geometry Effects on S. cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis
-
-[Home](https://jeremyprovance.github.io/)
+Senior Research Project Title: Fermentation Vessel Geometry Effects on S. cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis  
+***
