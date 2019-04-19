@@ -1,7 +1,4 @@
 ---
-title: "cv/index"
-author: "Jeremy Provance"
-date: "4/19/2019"
 output: html_document
 ---
 
