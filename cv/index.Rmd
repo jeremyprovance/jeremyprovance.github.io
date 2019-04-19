@@ -2,8 +2,8 @@
 output: html_document
 ---
 
-# Jeremy Provance, M.S. *Curriculum Vitae*
-
-EDUCATION
-August 2017-
+### Jeremy Provance, M.S. *Curriculum Vitae*
+***
+EDUCATION  
+August 2017-  
 **Doctoral Student**
