@@ -7,16 +7,16 @@ EDUCATION
 
 August 2017-  
 **Doctoral Student**  
-Primary Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/tag/interdisciplinary-ph-d/) (Univeristy of Missouri-Kansas City School of Medicine)  
+Primary Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/tag/interdisciplinary-ph-d/) ([Univeristy of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
 Primary Doctoral Mentor: [Kim G. Smolderen, PhD](https://twitter.com/KimGSmolderen)   
-Graduate Research Assistantship: Cardiovascular Disease Outcomes Research (Saint Luke's Mid America Heart Institute, Kansas City, Missouri)  
+Graduate Research Assistantship: [Cardiovascular Disease Outcomes Research](https://cvoutcomes.org) (Saint Luke's Mid America Heart Institute, Kansas City, Missouri)  
 
 August 2015-May 2017  
 **Master of Science**  
-Discipline: Biomedical & Health Informatics (UMKC School of Medicine)  
+Discipline: Biomedical & Health Informatics ([UMKC School of Medicine](http://med.umkc.edu))  
 Faculty Mentor/Thesis Chair: Kim G. Smolderen, PhD  
 Thesis Committee: Julie Banderas, PharmD; Mark Hoffman, PhD; John Spertus, MD, MPH, FAHA  
-Thesis Title: Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status
+Thesis Title: [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
 August 2010-May 2014  
 **Bachelor of Arts**  
@@ -31,7 +31,7 @@ WORK EXPERIENCE
 
 December 2015-  
 **Software Support Analyst**  
-UMKC School of Medicine, Department of Biomedical & Health Informatics, Center for Health Insights  
+[UMKC School of Medicine](http://med.umkc.edu), [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/), [Center for Health Insights](https://chi.umkc.edu)  
 
 * Manage installations of REDCap and i2b2 software platforms for UMKC School of Medicine and Truman Medical Center research stakeholders
 
@@ -41,7 +41,7 @@ UMKC School of Medicine, Department of Biomedical & Health Informatics, Center f
 
 January 2015-December 2015  
 **Microbiologist**  
-Boulevard Brewing Company (Kansas City, Missouri)
+[Boulevard Brewing Company](https://www.boulevard.com) (Kansas City, Missouri)
 
 * Managed microbiology quality control and analysis lab operations
 
@@ -75,19 +75,19 @@ MEETING PROCEEDINGS
 
 ABSTRACTS
 
-1. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry. JACC. 73(9): S1.
+1. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. [Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/3006.abstract). JACC. 73(9): S1.
 
-2. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. Cross Country Comparison of Leisure Time Physical Activity Trajectories in Patients With Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry. JACC. 73(9): S1.
+2. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. [Cross Country Comparison of Leisure Time Physical Activity Trajectories in Patients With Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2100.abstract). JACC. 73(9): S1.
 
-3. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry. JACC. 73(9): S1.
+3. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. [Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2093.abstract). JACC. 73(9): S1.
 
-4. Malik AO, Peri-Okonny P, **Provance JB**, Gosch K, Thomas M, Labrosciano C, Spertus JA, Smolderen KG. 2019. The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease. JACC. 73(9): S1.
+4. Malik AO, Peri-Okonny P, **Provance JB**, Gosch K, Thomas M, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). JACC. 73(9): S1.
 
-5. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. Examining Patients’ Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry. Circulation. 138: A15970.
+5. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [Examining Patients’ Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.15970). Circulation. 138: A15970.
 
-6. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry. Circulation. 138: A16038.
+6. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16038). Circulation. 138: A16038.
 
-7. **Provance JB**, Spertus JA, Safley D, Jones P, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry. Circulation. 136: A20550.
+7. **Provance JB**, Spertus JA, Safley D, Jones P, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.136.suppl_1.20550). Circulation. 136: A20550.
 
 ***
 
@@ -210,34 +210,34 @@ PODCAST APPEARANCES
 
 SERVICE LEADERSHIP
 
-**UMKC School of Graduate Studies Strategic Planning Committee**, Student Member  
+**UMKC School of Graduate Studies Strategic Planning Committee**, *Student Member*  
 Appointed January 2019
 
-**UMKC School of Graduate Studies Assistantship and Tuition Task Force**, Student Member  
+**UMKC School of Graduate Studies Assistantship and Tuition Task Force**, *Student Member*  
 Appointed January 2019
 
-**UMKC Graduate Student Council**, President (2019), Vice President (2018), Secretary (2016, 2017)  
+**UMKC Graduate Student Council**, *President (2019), Vice President (2018), Secretary (2016, 2017)*  
 Began Serving January 2016
 
-**Golden Key International Honor Society**, Treasurer (2016)  
+**Golden Key International Honor Society**, *Treasurer (2016)*  
 Inducted January 2016
 
 **Omicron Delta Kappa Honor Society**  
 Inducted January 2016
 
-**Phi Gamma Delta-Zeta Phi, Board of Graduate Advisors**
+**Phi Gamma Delta-Zeta Phi, Board of Graduate Advisors**  
 Appointed May 2014
 
-**UMKC Biomedical & Health Informatics Chair Search Committee**, Student Member  
+**UMKC Biomedical & Health Informatics Chair Search Committee**, *Student Member*  
 Appointed August 2016-October 2017
 
-**UMKC Biomedical & Health Informatics Curriculum Steering Committee**, Student Member  
+**UMKC Biomedical & Health Informatics Curriculum Steering Committee**, *Student Member*  
 Appointed May 2016-May 2017			                                 
 
-**William Jewell College Student Senate**, President (2013), Treasurer (2014, 2012)  
+**William Jewell College Student Senate**, *President (2013), Treasurer (2014, 2012)*  
 Elected 2012-2014
 
-**Phi Gamma Delta-Zeta Phi**, Treasurer (2013), Judicial Chair (2012), Member Education (2014)  
+**Phi Gamma Delta-Zeta Phi**, *Treasurer (2013), Judicial Chair (2012), Member Education (2014)*  
 2012-2014
 
 **William Jewell College Cardinal Hosts**  
