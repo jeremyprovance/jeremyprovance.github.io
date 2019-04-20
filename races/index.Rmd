@@ -12,8 +12,9 @@ I like to run to manage stress and keep healthy by competing in races. See updat
 ```{r fig.width=10, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("2018-10-20.png")
- grid.raster(img)
+
+img <- readPNG('2018-10-20.png')
+grid.raster(img)
 ```
 
 
