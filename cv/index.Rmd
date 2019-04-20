@@ -79,3 +79,161 @@ ABSTRACTS
 6. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry. Circulation. 138: A16038.
 
 7. **Provance JB**, Spertus JA, Safley D, Jones P, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry. Circulation. 136: A20550.
+
+***
+
+ORAL PRESENTATIONS
+
+1. Visualization of molecular structures using HoloLens-based augmented reality, Midwest Bioinformatics Conference, Data Visualization Session, Kansas City, Apr 2017
+
+2. Visualization of molecular structures using HoloLens-based augmented reality, American Medical Informatics Association Joint Summits for Translational Science, Data Visualization Session, San Francisco, March 2017
+
+***
+
+MODERATED POSTER PRESENTATIONS
+
+1. Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, Mar 2019
+
+***
+
+POSTER PRESENTATIONS
+
+1. Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, Saint Luke’s Hospital Annual Research Day, Submitted
+
+2. Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database, UMKC Health Sciences Student Research Summit, Apr 2019
+
+3. Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, UMKC Health Sciences Student Research Summit, Apr 2019
+
+4. Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, UMKC Community of Scholars Research Symposium, Mar 2019
+
+5. Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry, American Heart Association Scientific Sessions, Chicago, Nov 2018
+
+6. How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry, American Heart Association Scientific Sessions, Chicago, Nov 2018
+
+7. Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, Saint Luke’s Hospital Annual Research Day, Kansas City, April 2018
+
+8. Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research, Midwest Bioinformatics Conference, Columbia MO, Apr 2018
+
+9. Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, Nov 2017
+
+***
+
+AWARDS
+
+2019, 3rd Place (Poster), UMKC Community of Scholars Research Symposium
+
+
+2019, Travel grant funded by Ida Bamberger Memorial Research Award ($750) to present:
+
+	Preferences and Patterns of Shared Decision-Making in Patients with Peripheral 			Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology 			Scientific Sessions, New Orleans, Mar 2019
+
+2019, Travel grant funded by UMKC School of Graduate Studies ($800) to present:
+
+	Preferences and Patterns of Shared Decision-Making in Patients with Peripheral 			Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology 			Scientific Sessions, New Orleans, Mar 2019
+
+2018, Travel grant funded by UMKC Student Activity Fee ($1,200) to present:
+
+>Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry; How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry, American Heart Association Scientific Sessions, Chicago, Nov 2018
+
+2018, Sarah Morrison Student Research Award funded by UMKC Office of Research Administration ($2,500) to complete the project:
+	
+	Studying Amputations in the Cerner Health Facts Database: Overlap with Peripheral 			Artery Disease, Diabetes, and Prognostic Outcomes
+
+2017, Travel grant funded by UMKC Student Activity Fee ($1,200) to present:
+
+	Decisional Conflict in Peripheral Arterial Disease: Association with 					Treatment Choice and Health Status in the PORTRAIT Registry, American 				Heart Association Scientific Sessions, Anaheim, Nov 2017
+
+2017, Travel grant funded by UMKC School of Graduate Studies ($800) to present:
+
+	Decisional Conflict in Peripheral Arterial Disease: Association with 					Treatment Choice and Health Status in the PORTRAIT Registry, American 				Heart Association Scientific Sessions, Anaheim, Nov 2017
+
+***
+
+GRANT PARTICIPATION
+
+2016-2018  
+**Electronic Data Warehouse Analyst** (0.2 FTE)  
+Project: Practice-Based Evidence Using Local and National Data for Quality Improvement  
+Principal Investigators: Mark Hoffman, PhD; Kamani Lankachandra, MD  
+Funding Agency: Center for Disease Control (RFA-OE16-1602)  
+Grant amount: $956,553 (3 years)  
+
+***
+
+TEACHING & GUEST LECTURES
+
+1. Teaching Assistant, Clinical Trials, UMKC School of Medicine, Spring 2019
+
+2. Generalized Linear Mixed Models-Logistic Regression, Biostatistics III: Multilevel Analysis Course Student Lecture, Nov 2018
+
+3. Introduction to Digital Open Science, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, Oct 2018
+
+4. Using Cerner i2b2 and Health Facts for Clinical Trials and General Research, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, Feb 2018
+
+5. Visualization of molecular structures using HoloLens-based augmented reality, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, Oct 2017
+
+6. Using the De-identified Cerner i2b2 Database as a Research Resource, UMKC School of Medicine Year 3 Medical Student Neuroscience Course Guest Lecture, Oct 2017
+
+***
+
+REVIEWING
+
+American Heart Association, Circulation: Cardiovascular Quality and Outcomes (Reviewer, 2017-)
+	
+American Medical Informatics Association, Informatics Summits (Abstract Reviewer, 2017-)
+
+***
+
+PROFESSIONAL MEMBERSHIP
+
+American College of Cardiology (Student Member, 2019-)
+
+American Heart Association (Student Member, 2017-)
+
+American Medical Informatics Association (Student Member, 2017-)
+
+***
+
+PODCAST APPEARANCES
+
+Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, Jul 2018
+
+***
+
+SERVICE LEADERSHIP
+
+**UMKC School of Graduate Studies Strategic Planning Committee**, Student Member  
+Appointed January 2019
+
+**UMKC School of Graduate Studies Assistantship and Tuition Task Force**, Student Member  
+Appointed January 2019
+
+**UMKC Graduate Student Council**, President (2019), Vice President (2018), Secretary (2016, 2017)  
+Began Serving January 2016
+
+**Golden Key International Honor Society**, Treasurer (2016)  
+Inducted January 2016
+
+**Omicron Delta Kappa Honor Society**
+Inducted January 2016
+
+**Phi Gamma Delta-Zeta Phi, Board of Graduate Advisors**
+Appointed May 2014
+
+**UMKC Biomedical & Health Informatics Chair Search Committee**, Student Member  
+Appointed August 2016-October 2017
+
+**UMKC Biomedical & Health Informatics Curriculum Steering Committee**, Student Member  
+Appointed May 2016-May 2017			                                 
+
+**William Jewell College Student Senate**, President (2013), Treasurer (2014, 2012)  
+Elected 2012-2014
+
+**Phi Gamma Delta-Zeta Phi**, Treasurer (2013), Judicial Chair (2012), Member Education (2014)  
+2012-2014
+
+**William Jewell College Cardinal Hosts**  
+Appointed 2011-2014
+
+**Missouri Boys State Staff Counselor**  
+Summer 2010
