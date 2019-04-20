@@ -93,7 +93,7 @@ ABSTRACTS
 
 ORAL PRESENTATIONS
 
-1. **Visualization of molecular structures using HoloLens-based augmented reality**, Midwest Bioinformatics Conference, Data Visualization Session, Kansas City, Apr 2017
+1. **Visualization of molecular structures using HoloLens-based augmented reality**, Midwest Bioinformatics Conference, Data Visualization Session, Kansas City, April 2017
 
 2. **Visualization of molecular structures using HoloLens-based augmented reality**, American Medical Informatics Association Joint Summits for Translational Science, Data Visualization Session, San Francisco, March 2017
 
@@ -101,7 +101,7 @@ ORAL PRESENTATIONS
 
 MODERATED POSTER PRESENTATIONS
 
-1. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, American College of Cardiology Scientific Sessions, New Orleans, Mar 2019
+1. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, American College of Cardiology Scientific Sessions, New Orleans, March 2019
 
 ***
 
@@ -109,21 +109,21 @@ POSTER PRESENTATIONS
 
 1. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, Saint Luke’s Hospital Annual Research Day, Submitted
 
-2. **Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database**, UMKC Health Sciences Student Research Summit, Apr 2019
+2. **Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database**, UMKC Health Sciences Student Research Summit, April 2019
 
-3. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, UMKC Health Sciences Student Research Summit, Apr 2019
+3. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, UMKC Health Sciences Student Research Summit, April 2019
 
-4. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, UMKC Community of Scholars Research Symposium, Mar 2019
+4. **Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**, UMKC Community of Scholars Research Symposium, March 2019
 
-5. **Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry**, American Heart Association Scientific Sessions, Chicago, Nov 2018
+5. **Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry**, American Heart Association Scientific Sessions, Chicago, November 2018
 
-6. **How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry**, American Heart Association Scientific Sessions, Chicago, Nov 2018
+6. **How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry**, American Heart Association Scientific Sessions, Chicago, November 2018
 
 7. **Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry**, Saint Luke’s Hospital Annual Research Day, Kansas City, April 2018
 
-8. **Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research**, Midwest Bioinformatics Conference, Columbia MO, Apr 2018
+8. **Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research**, Midwest Bioinformatics Conference, Columbia MO, April 2018
 
-9. **Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry**, American Heart Association Scientific Sessions, Anaheim, Nov 2017
+9. **Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry**, American Heart Association Scientific Sessions, Anaheim, November 2017
 
 ***
 
@@ -133,15 +133,15 @@ AWARDS
 
 2019, **Travel grant funded by Ida Bamberger Memorial Research Award** ($750) to present:
 
-* Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, Mar 2019
+* Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, March 2019
 
 2019, **Travel grant funded by UMKC School of Graduate Studies** ($800) to present:
 
-* Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, Mar 2019
+* Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, March 2019
 
 2018, **Travel grant funded by UMKC Student Activity Fee** ($1,200) to present:
 
-* Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry; How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry, American Heart Association Scientific Sessions, Chicago, Nov 2018
+* Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry; How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry, American Heart Association Scientific Sessions, Chicago, November 2018
 
 2018, **Sarah Morrison Student Research Award** funded by UMKC Office of Research Administration ($2,500) to complete the project:
 	
@@ -149,11 +149,11 @@ AWARDS
 
 2017, **Travel grant funded by UMKC Student Activity Fee** ($1,200) to present:
 
-* Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, Nov 2017
+* Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, November 2017
 
 2017, **Travel grant funded by UMKC School of Graduate Studies** ($800) to present:
 
-* Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, Nov 2017
+* Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, November 2017
 
 ***
 
@@ -172,15 +172,15 @@ TEACHING & GUEST LECTURES
 
 1. **Teaching Assistant**, Clinical Trials, UMKC School of Medicine, Spring 2019
 
-2. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, Nov 2018
+2. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
 
-3. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, Oct 2018
+3. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018
 
-4. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, Feb 2018
+4. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, February 2018
 
-5. **Visualization of molecular structures using HoloLens-based augmented reality**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, Oct 2017
+5. **Visualization of molecular structures using HoloLens-based augmented reality**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2017
 
-6. **Using the De-identified Cerner i2b2 Database as a Research Resource**, UMKC School of Medicine Year 3 Medical Student Neuroscience Course Guest Lecture, Oct 2017
+6. **Using the De-identified Cerner i2b2 Database as a Research Resource**, UMKC School of Medicine Year 3 Medical Student Neuroscience Course Guest Lecture, October 2017
 
 ***
 
@@ -204,7 +204,7 @@ American Medical Informatics Association (Student Member, 2017-)
 
 PODCAST APPEARANCES
 
-**Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials**, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, Jul 2018
+**Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials**, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, July 2018
 
 ***
 
