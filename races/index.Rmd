@@ -3,11 +3,9 @@ title: "Races"
 output: html_document
 ---
 
-I like to run to manage stress and keep healthy by competing in races. See updates about that here!
-
 ***
 
-#### 2018 Kansas City Marathon
+#### 2018 Kansas City Half Marathon
 
 ```{r fig.width=10, fig.height=10, echo=FALSE}
 library(png)
@@ -17,4 +15,26 @@ img <- readPNG('2018-10-20.png')
 grid.raster(img)
 ```
 
+***
 
+#### 2018 Hospital Hill Half Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2018-06-02.png')
+grid.raster(img)
+```
+
+***
+
+#### 2017 Kansas City Half Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2017-10-21.png')
+grid.raster(img)
+```
