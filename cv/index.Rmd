@@ -1,5 +1,5 @@
 ---
-title: "Jeremy Provance, M.S. *Curriculum Vitae*"
+title: "Jeremy Provance, MS *Curriculum Vitae*"
 output: html_document
 ---
 ***
@@ -49,6 +49,20 @@ May 2014-December 2014
 Tallgrass Brewing Company (Manhattan, Kansas)  
 *Developed post-packaging beer microbial stability program
 *Developed environmental and sustainability programs  
+
+***
+
+PEER-REVIEWED PUBLICATIONS
+
+1. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. Assessing Patient Preferences for Shared Decision-Making in Peripheral Artery Disease: Insights from the PORTRAIT Registry. Circulation: Cardiovascular Quality and Outcomes. Submitted.
+
+2. Ward-Smith P, Hawks JH, Quallich SA, **Provance JB**. 2018. [Workplace incivility: Perceptions of urology nurses](https://library.suna.org/suna/articles/1215/view). Urological Nursing. 38(1), 20-26.
+
+***
+
+MEETING PROCEEDINGS
+
+1. Hoffman MA, **Provance JB**. [Visualization of Molecular Structures Using HoloLens-based Augmented Reality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543343/). AMIA Jt Summits Trans Sci Proc. 2017. 68-74.
 
 ***
 
