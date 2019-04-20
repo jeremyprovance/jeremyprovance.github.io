@@ -1,0 +1,19 @@
+---
+title: "Races"
+output: html_document
+---
+
+I like to run to manage stress and keep healthy by competing in races. See updates about that here!
+
+***
+
+#### 2018 Kansas City Marathon
+
+```{r fig.width=10, fig.height=10, echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("2018-10-20.png")
+ grid.raster(img)
+```
+
+
