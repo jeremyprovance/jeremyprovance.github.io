@@ -196,7 +196,7 @@ American Medical Informatics Association (Student Member, 2017-)
 
 PODCAST APPEARANCES
 
-Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, Jul 2018
+**Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials**, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, Jul 2018
 
 ***
 
