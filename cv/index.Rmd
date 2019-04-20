@@ -5,20 +5,20 @@ output: html_document
 ***
 EDUCATION  
 
-August 2017-  
+*August 2017-*  
 **Doctoral Student**  
 Primary Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/tag/interdisciplinary-ph-d/) ([Univeristy of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
 Primary Doctoral Mentor: [Kim G. Smolderen, PhD](https://twitter.com/KimGSmolderen)   
 Graduate Research Assistantship: [Cardiovascular Disease Outcomes Research](https://cvoutcomes.org) (Saint Luke's Mid America Heart Institute, Kansas City, Missouri)  
 
-August 2015-May 2017  
+*August 2015-May 2017*  
 **Master of Science**  
 Discipline: Biomedical & Health Informatics ([UMKC School of Medicine](http://med.umkc.edu))  
 Faculty Mentor/Thesis Chair: Kim G. Smolderen, PhD  
 Thesis Committee: Julie Banderas, PharmD; Mark Hoffman, PhD; John Spertus, MD, MPH, FAHA  
 Thesis Title: [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
-August 2010-May 2014  
+*August 2010-May 2014*  
 **Bachelor of Arts**  
 Major: Biology  
 Institution: William Jewell College (Liberty, Missouri)  
@@ -29,7 +29,7 @@ Senior Research Project Title: Fermentation Vessel Geometry Effects on S. cerevi
 
 WORK EXPERIENCE
 
-December 2015-  
+*December 2015-*  
 **Software Support Analyst**  
 [UMKC School of Medicine](http://med.umkc.edu), [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/), [Center for Health Insights](https://chi.umkc.edu)  
 
@@ -39,7 +39,7 @@ December 2015-
 
 * Experienced with Cerner Health Facts, Microsoft HoloLens, Oculus Rift, Ingenuity Pathways Analysis, Unity, and DNAStar software platforms  
 
-January 2015-December 2015  
+*January 2015-December 2015*  
 **Microbiologist**  
 [Boulevard Brewing Company](https://www.boulevard.com) (Kansas City, Missouri)
 
@@ -51,7 +51,7 @@ January 2015-December 2015
 
 * Trained in chemical and physical analysis methods  
 
-May 2014-December 2014  
+*May 2014-December 2014*  
 **Production Brewer**  
 Tallgrass Brewing Company (Manhattan, Kansas)
 
