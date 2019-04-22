@@ -41,6 +41,42 @@ grid.raster(img)
 
 ***
 
+#### 2016 Kansas City Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2016-10-15.png')
+grid.raster(img)
+```
+
+***
+
+#### 2014 Kansas Half Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2014-11-03.png')
+grid.raster(img)
+```
+
+***
+
+#### 2013 Kansas City Half Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2013-10-19.png')
+grid.raster(img)
+```
+
+***
+
 #### 2012 Kansas City Half Marathon
 
 ```{r fig.width=10, fig.height=7, echo=FALSE}
