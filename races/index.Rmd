@@ -38,3 +38,65 @@ library(grid)
 img <- readPNG('2017-10-21.png')
 grid.raster(img)
 ```
+
+***
+
+#### 2012 Kansas City Half Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2012-10-20.png')
+grid.raster(img)
+```
+
+***
+
+#### 2012 Hy-Vee 5150 Triathalon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2012-09-02.png')
+grid.raster(img)
+```
+
+***
+
+#### 2011 Kansas City Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2011-10-15.png')
+grid.raster(img)
+```
+
+***
+
+#### 2010 Kansas City Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2010-10-16.png')
+grid.raster(img)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
