@@ -41,9 +41,33 @@ grid.raster(img)
 
 ***
 
+#### 2017 Hospital Hill Half Marathon
+
+```{r fig.width=7, fig.height=10, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2017-06-03.png')
+grid.raster(img)
+```
+
+***
+
+#### 2016 Des Moines Turkey Trot 5K
+
+```{r fig.width=10, fig.height=10, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2016-11-26.png')
+grid.raster(img)
+```
+
+***
+
 #### 2016 Kansas City Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=7, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
 
@@ -55,7 +79,7 @@ grid.raster(img)
 
 #### 2014 Kansas Half Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=10, fig.height=10, echo=FALSE, message=FALSE,warning=FALSE}
 library(png)
 library(grid)
 
@@ -67,7 +91,7 @@ grid.raster(img)
 
 #### 2013 Kansas City Half Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=7, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
 
@@ -79,7 +103,7 @@ grid.raster(img)
 
 #### 2012 Kansas City Half Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=7, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
 
@@ -91,7 +115,7 @@ grid.raster(img)
 
 #### 2012 Hy-Vee 5150 Triathalon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=7, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
 
@@ -103,7 +127,7 @@ grid.raster(img)
 
 #### 2011 Kansas City Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=7, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
 
@@ -115,7 +139,7 @@ grid.raster(img)
 
 #### 2010 Kansas City Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
+```{r fig.width=7, fig.height=10, echo=FALSE}
 library(png)
 library(grid)
 
