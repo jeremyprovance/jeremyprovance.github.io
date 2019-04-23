@@ -5,8 +5,6 @@ output: html_document
 ***
 EDUCATION 
 
-### Firas is the best fellow
-
 *August 2017-*  
 **Doctoral Student**  
 Primary Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/tag/interdisciplinary-ph-d/) ([Univeristy of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
