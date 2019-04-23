@@ -3,7 +3,9 @@ title: "Jeremy Provance, MS *Curriculum Vitae*"
 output: html_document
 ---
 ***
-EDUCATION  
+EDUCATION 
+
+### Firas is the best fellow
 
 *August 2017-*  
 **Doctoral Student**  
