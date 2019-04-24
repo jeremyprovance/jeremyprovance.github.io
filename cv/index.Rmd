@@ -1,6 +1,8 @@
 ---
 title: "Jeremy Provance, MS *Curriculum Vitae*"
-output: html_document
+output: 
+  html_document:
+    css: main.css
 ---
 ***
 EDUCATION
