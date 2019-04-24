@@ -3,7 +3,7 @@ title: "Jeremy Provance, MS *Curriculum Vitae*"
 output: html_document
 ---
 ***
-EDUCATION 
+EDUCATION
 
 *August 2017-*  
 **Doctoral Student**  
