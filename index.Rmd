@@ -1,0 +1,24 @@
+---
+title: "Jeremy Provance, MS"
+output: 
+  html_document:
+    css: css/main.css
+---
+<nav>
+  <ul>
+	  <li><a href="/">About</a></li>
+    <li><a href="/cv">CV</a></li>
+		<li><a href="/running">Running</a></li>
+    <li><a href="/blog">Blog</a></li>
+		<li><a href="/test">Test</a></li>
+	</ul>
+</nav>
+
+This page is currently under constuction so please excuse any messes or formatting. I'm an interdisciplinary PhD student at the University of Missouri-Kansas City School of Medicine studying health informatics. My research at the Saint Luke's Mid American Heart Institute is under the mentorship of Kim Smolderen, PhD. My aim is to use health data to better understand chronic disease, disease outcomes, and to empower patients to take an active role in creating better health.
+
+Please connect with me on [Twitter](https://twitter.com/jeremyprovance)!
+
+***
+
+Copyright © 2019 Jeremy B Provance
+
