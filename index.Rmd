@@ -17,7 +17,7 @@ output:
 
 I'm a PhD student at the University of Missouri-Kansas City School of Medicine studying bioinformatics. My research at the Saint Luke's Mid American Heart Institute is under the mentorship of [Kim Smolderen (UMKC DBHI)](http://med.umkc.edu/dir/Smolderen-Kim/). My aim is to use health data to better understand chronic disease, disease outcomes, and to empower patients to take an active role in creating better health.
 
-I completed my undergraduate studies at William Jewell College studying biology and then spent time in the brewing industry before heading to graduate school. I received my master's in bioinformatics in 2017.
+I completed my undergraduate studies in biology at William Jewell College and spent time in the brewing industry before heading to graduate school. I received my master's in bioinformatics in 2017.
 
 [Follow me on Twitter!](https://twitter.com/jeremyprovance)
 
