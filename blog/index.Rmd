@@ -19,4 +19,4 @@ This page is under construction -- coming soon!
 
 ***
 
-Copyright © 2019 Jeremy B Provance
+<center> Copyright © 2019 Jeremy B Provance </center>
