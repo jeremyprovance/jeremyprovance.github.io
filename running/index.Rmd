@@ -168,7 +168,7 @@ grid.raster(img)
 	</ul>
 </nav>
 
-Copyright © 2019 Jeremy B Provance
+<center> Copyright © 2019 Jeremy B Provance </center>
 
 
 
