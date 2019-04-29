@@ -181,7 +181,7 @@ Grant amount: $956,553 (3 years)
 
 TEACHING & GUEST LECTURES
 
-1. **Teaching Assistant**, Clinical Trials, UMKC School of Medicine, Spring 2019
+1. **Teaching Assistant**, *Department of Biomedical & Health Informatics (UMKC School of Medicine)*, MEDB 5512: Clinical Trials (Prof. Kim Smolderen), Spring 2019
 
 2. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
 
@@ -256,6 +256,14 @@ Appointed 2011-2014
 
 **Missouri Boys State Staff Counselor**  
 Summer 2010
+
+***
+
+PROGRAMMING LANGUAGES
+
+**Advanced**: R, SAS  
+**Intermediate**: SQL, MongoDB, Python  
+**Novice**: HTML, CSS  
 
 ***
 
