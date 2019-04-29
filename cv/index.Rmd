@@ -1,5 +1,5 @@
 ---
-title: "Jeremy Provance, MS *Curriculum Vitae*"
+title: "Jeremy B. Provance, MS *Curriculum Vitae*"
 output: 
   html_document:
     css: main.css
