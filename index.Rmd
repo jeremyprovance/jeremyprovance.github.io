@@ -15,7 +15,7 @@ output:
 
 ***
 
-I'm a PhD student at the University of Missouri-Kansas City School of Medicine studying bioinformatics. My interests are in the intersection of clinical science and technology, specifically how we can leverage data to understand health and health systems. My research at the Saint Luke's Mid American Heart Institute is under the mentorship of [Kim Smolderen (UMKC DBHI)](http://med.umkc.edu/dir/Smolderen-Kim/). My long term goals are to use health data to better understand chronic disease, disease outcomes, and to empower patients to take an active role in creating better health.
+I'm a PhD student at the University of Missouri-Kansas City School of Medicine studying bioinformatics. My interests are in the intersection of clinical science and technology, specifically how we can leverage data to understand health and health systems. My research at the Saint Luke's Mid American Heart Institute is under the mentorship of [Kim Smolderen](http://med.umkc.edu/dir/Smolderen-Kim/). My long term goals are to use health data to better understand chronic disease, disease outcomes, and to empower patients to take an active role in creating better health.
 
 I completed my undergraduate studies in biology at William Jewell College and completed a senior research project studying fermentation. I spent time in industrial beer production, first producing beer at Tallgrass Brewing and then analyzing it at Boulevard Brewing, before leaving to attend graduate school. I received my master's in bioinformatics in 2017.
 
