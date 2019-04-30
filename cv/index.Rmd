@@ -1,6 +1,7 @@
 ---
 title: "Jeremy B. Provance, MS *Curriculum Vitae*"
-output: 
+output:
+  pdf_document: default
   html_document:
     css: main.css
 ---
