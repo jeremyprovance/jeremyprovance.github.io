@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B. Provance, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 <nav>
   <ul>
@@ -199,9 +199,9 @@ TEACHING & GUEST LECTURES
 
 REVIEWING
 
-American Heart Association, Circulation: Cardiovascular Quality and Outcomes (Reviewer, 2017-)
+American Heart Association, *Circulation: Cardiovascular Quality and Outcomes* (Reviewer, 2017-)
 	
-American Medical Informatics Association, Informatics Summits (Abstract Reviewer, 2017-)
+American Medical Informatics Association, *Informatics Summits* (Abstract Reviewer, 2017-)
 
 ***
 
