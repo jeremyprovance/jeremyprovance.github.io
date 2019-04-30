@@ -43,7 +43,7 @@ Thesis Title: [Decisional Conflict in Peripheral Artery Disease: Association wit
 Major: Biology  
 Institution: [William Jewell College](https://jewell.edu) (Liberty, Missouri)  
 Faculty Mentors: Scott Falke, PhD; Tara Allen, PhD  
-Senior Research Project Title: Fermentation Vessel Geometry Effects on S. cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis 
+Senior Research Project Title: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisiae* Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis 
 
 ***  
 
