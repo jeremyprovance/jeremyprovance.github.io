@@ -267,7 +267,7 @@ PROGRAMMING LANGUAGES
 
 **Advanced**: R, SAS  
 **Intermediate**: SQL, MongoDB, Python  
-**Novice**: PHP, HTML, CSS  
+**Basic**: PHP, HTML, CSS  
 
 ***
 
