@@ -19,7 +19,8 @@ output:
 CONTACT
 
 Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
-Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)
+Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
+Office: UMKC School of Medicine, 5th Floor, Department of Biomedical & Health Informatics
 
 ***
 
