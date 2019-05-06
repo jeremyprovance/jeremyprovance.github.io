@@ -1,18 +1,10 @@
 ---
 title: "Jeremy B Provance, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
-<nav>
-  <ul>
-	  <li><a href="/">About</a></li>
-    <li><a href="/cv">CV</a></li>
-		<li><a href="/running">Running</a></li>
-    <li><a href="/blog">Blog</a></li>
-	</ul>
-</nav>
 
 ***
 
@@ -282,10 +274,7 @@ PROGRAMMING LANGUAGES
 
 <nav>
   <ul>
-	  <li><a href="/">About</a></li>
-    <li><a href="/cv">CV</a></li>
-		<li><a href="/running">Running</a></li>
-    <li><a href="/blog">Blog</a></li>
+    <li><a href="/cv/index.pdf">Click here to generate a web PDF of this CV</a></li>
 	</ul>
 </nav>
 
