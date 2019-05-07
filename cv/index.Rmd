@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B Provance, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -226,10 +226,10 @@ PODCAST APPEARANCES
 
 SERVICE LEADERSHIP
 
-**UMKC School of Graduate Studies Strategic Planning Committee**, *Student Member*  
+**UMKC School of Graduate Studies Strategic Planning Committee**, *Student Representative*  
 Appointed January 2019
 
-**UMKC School of Graduate Studies Assistantship and Tuition Task Force**, *Student Member*  
+**UMKC School of Graduate Studies Assistantship and Tuition Task Force**, *Student Representative*  
 Appointed January 2019
 
 **UMKC Graduate Student Council**, *President (2019), Vice President (2018), Secretary (2016, 2017)*  
@@ -244,10 +244,10 @@ Inducted January 2016
 **Phi Gamma Delta-Zeta Phi, Board of Graduate Advisors**  
 Appointed May 2014
 
-**UMKC Biomedical & Health Informatics Chair Search Committee**, *Student Member*  
+**UMKC Biomedical & Health Informatics Chair Search Committee**, *Student Representative*  
 Appointed August 2016-October 2017
 
-**UMKC Biomedical & Health Informatics Curriculum Steering Committee**, *Student Member*  
+**UMKC Biomedical & Health Informatics Curriculum Steering Committee**, *Student Representative*  
 Appointed May 2016-May 2017			                                 
 
 **William Jewell College Student Senate**, *President (2013), Treasurer (2014, 2012)*  
