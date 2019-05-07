@@ -15,6 +15,10 @@ output:
 
 ***
 
+I am not a professional blogger but I hope to use this medium as a public outlet for the things I'm learning and work I'm doing. Check back for updates!
+
+Blog Posts:
+
 * [Online Security in an Age of Hacking and Breaches](https://jeremyprovance.github.io/blog/2018-03-26-Online-Security-in-an-Age-of-Hacking-and-Breaches)
 
 ***
