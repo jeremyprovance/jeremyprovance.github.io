@@ -264,7 +264,7 @@ Summer 2010
 
 ***
 
-PROGRAMMING LANGUAGES
+PROGRAMMING
 
 **Advanced**: R, SAS  
 **Intermediate**: SQL, MongoDB, Python  
