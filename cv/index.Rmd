@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B Provance, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -21,13 +21,13 @@ EDUCATION
 *August 2017-*  
 **Doctoral Student**  
 Primary Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/dbhi/) ([University of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
-Primary Doctoral Mentor: [Kim G. Smolderen, PhD](http://med.umkc.edu/dir/Smolderen-Kim/)   
+Primary Doctoral Mentor: [Kim G Smolderen, PhD](http://med.umkc.edu/dir/Smolderen-Kim/)   
 Graduate Research Assistantship: [Cardiovascular Disease Outcomes Research](https://cvoutcomes.org) (Saint Luke's Mid America Heart Institute, Kansas City, Missouri)  
 
 *August 2015-May 2017*  
 **Master of Science**  
 Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/dbhi/) ([University of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
-Faculty Mentor/Thesis Chair: [Kim G. Smolderen, PhD](http://med.umkc.edu/dir/Smolderen-Kim/)   
+Faculty Mentor/Thesis Chair: [Kim G Smolderen, PhD](http://med.umkc.edu/dir/Smolderen-Kim/)   
 Thesis Committee: [Julie Banderas, PharmD](http://med.umkc.edu/dir/Banderas-Julie/); [Mark Hoffman, PhD](https://www.childrensmercy.org/research/childrens-research-institute/childrens-research-institute-leadership/mark-hoffman/); [John Spertus, MD, MPH, FAHA](http://med.umkc.edu/dir/Spertus-John/)  
 Thesis: [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
