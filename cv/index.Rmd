@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B Provance, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -12,7 +12,11 @@ CONTACT
 
 Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
 Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
-Office: [University of Missouri-Kansas City School of Medicine](http://med.umkc.edu), 5th Floor, [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)
+Offices: 
+
+* [University of Missouri-Kansas City School of Medicine](http://med.umkc.edu), 5th Floor, [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)
+
+* [Saint Luke's Mid America Heart Institute](https://www.saintlukeskc.org/locations/saint-lukes-mid-america-heart-institute), 9th Floor, [Cardiovascular & Outcomes Research Group](https://cvoutcomes.org)
 
 ***
 
