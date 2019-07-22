@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B Provance, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -84,7 +84,7 @@ PEER-REVIEWED PUBLICATIONS
 
 2. Ward-Smith P, Hawks JH, Quallich SA, **Provance JB**. 2018. [Workplace incivility: Perceptions of urology nurses](https://library.suna.org/suna/articles/1215/view). *Urological Nursing*. 38(1), 20-26.
 
-3. Hoffman MA, **Provance JB**. [Visualization of Molecular Structures Using HoloLens-based Augmented Reality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543343/). *AMIA Jt Summits Trans Sci Proc*. 2017. 68-74.
+3. Hoffman MA, **Provance JB**. 2017. [Visualization of Molecular Structures Using HoloLens-based Augmented Reality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543343/). *AMIA Jt Summits Trans Sci Proc*. 68-74.
 
 ***
 
