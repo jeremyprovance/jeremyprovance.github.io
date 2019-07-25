@@ -13,11 +13,24 @@ output:
 	</ul>
 </nav>
 
+
+***
+
+#### 2019 Hospital Hill Half Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2019-06-01.png')
+grid.raster(img)
+```
+
 ***
 
 #### 2018 Kansas City Half Marathon
 
-```{r fig.width=10, fig.height=10, echo=FALSE}
+```{r fig.width=10, fig.height=7, echo=FALSE}
 library(png)
 library(grid)
 
