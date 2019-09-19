@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -80,7 +80,7 @@ Tallgrass Brewing Company (Manhattan, Kansas)
 
 PEER-REVIEWED PUBLICATIONS
 
-1. **Provance JB**, Spertus JA, Decker C, Jones PG, Smolderen KG. 2019. Assessing Patient Preferences for Shared Decision-Making in Peripheral Artery Disease: Insights from the PORTRAIT Registry. *Circulation: Cardiovascular Quality and Outcomes*. In Press.
+1. **Provance JB**, Spertus JA, Decker C, Jones PG, Smolderen KG. 2019. [Assessing Patient Preferences for Shared Decision-Making in Peripheral Artery Disease: Insights from the PORTRAIT Registry](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.119.005730). *Circulation: Cardiovascular Quality and Outcomes*. 12(8).
 
 2. Ward-Smith P, Hawks JH, Quallich SA, **Provance JB**. 2018. [Workplace incivility: Perceptions of urology nurses](https://library.suna.org/suna/articles/1215/view). *Urological Nursing*. 38(1), 20-26.
 
