@@ -186,13 +186,14 @@ Grant amount: $956,553 (3 years)
 
 TEACHING & GUEST LECTURES
 
-1. **Discussion of [Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, September 2019
+1. **Discussion of [Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, September 2019 [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Seminar_Slides.pdf)] 
 
 2. **Teaching Assistant**, *MEDB 5512: Clinical Trials (Prof. Kim Smolderen)*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2019
 
 3. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
 
-4. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018
+4. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018 [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Seminar_Slides.pdf)]
+
 
 5. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, February 2018
 
