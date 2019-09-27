@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -202,7 +202,7 @@ TEACHING & GUEST LECTURES
 
 ***
 
-MENTORSHIP
+RESEARCH MENTORSHIP
 
 2019 - Madeline Johnson (Medical Student), University of Missouri-Kansas City School of Medicine
 
