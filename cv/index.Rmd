@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -193,7 +193,6 @@ TEACHING & GUEST LECTURES
 3. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
 
 4. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018 [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
-
 
 5. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, February 2018
 
