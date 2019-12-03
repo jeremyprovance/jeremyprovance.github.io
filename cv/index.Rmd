@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -116,7 +116,7 @@ ABSTRACTS
 
 ORAL PRESENTATIONS
 
-1. **Visualization of molecular structures using HoloLens-based augmented reality**, Midwest Bioinformatics Conference, Data Visualization Session, Kansas City, April 2017
+1. **Visualization of molecular structures using HoloLens-based augmented reality**, Midwest Bioinformatics Conference, Data Visualization Session, Kansas City, April 2017 [[video, start at 28:35](https://vimeo.com/217083333)]
 
 2. **Visualization of molecular structures using HoloLens-based augmented reality**, American Medical Informatics Association Joint Summits for Translational Science, Data Visualization Session, San Francisco, March 2017
 
