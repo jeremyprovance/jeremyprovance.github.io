@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -39,7 +39,7 @@ Thesis: [Decisional Conflict in Peripheral Artery Disease: Association with Trea
 *August 2010-May 2014*  
 **Bachelor of Arts**  
 Major: Biology ([William Jewell College](https://jewell.edu), Liberty, Missouri)  
-Faculty Mentors: Scott Falke, PhD; Tara Allen, PhD  
+Faculty Mentors: Scott Falke, PhD; [Tara Allen, PhD](https://info.umkc.edu/sbc-directory/directory/tara-allen/)  
 Senior Research Project: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisiae* Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis 
 
 ***  
