@@ -190,19 +190,21 @@ Grant amount: $956,553 (3 years)
 
 TEACHING & GUEST LECTURES
 
-1. **Discussion of [Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, September 2019 [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)] 
+1. **Graduate Instructor**, *MEDB 5512: Clinical Trials*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2020
 
-2. **Teaching Assistant**, *MEDB 5512: Clinical Trials (Prof. Kim Smolderen)*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2019
+2. **Discussion of [Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, September 2019 [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)] 
 
-3. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
+3. **Teaching Assistant**, *MEDB 5512: Clinical Trials (Prof. Kim Smolderen)*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2019
 
-4. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018 [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
+4. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
 
-5. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, February 2018
+5. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018 [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
 
-6. **Visualization of molecular structures using HoloLens-based augmented reality**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2017
+6. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, February 2018
 
-7. **Using the De-identified Cerner i2b2 Database as a Research Resource**, UMKC School of Medicine Year 3 Medical Student Neuroscience Course Guest Lecture, October 2017
+7. **Visualization of molecular structures using HoloLens-based augmented reality**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2017
+
+8. **Using the De-identified Cerner i2b2 Database as a Research Resource**, UMKC School of Medicine Year 3 Medical Student Neuroscience Course Guest Lecture, October 2017
 
 ***
 

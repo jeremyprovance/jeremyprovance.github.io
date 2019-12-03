@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.30)  2 DEC 2019 23:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.30)  2 DEC 2019 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,19 +613,19 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {/Users/jeremyprovance/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex
 .map}] [2] [3] [4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 636.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 636.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
 (./index.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 636.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 636.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
 Package rerunfilecheck Info: File `index.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 636.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 640.
  ) 
 Here is how much of TeX's memory you used:
- 10355 strings out of 494562
- 145843 string characters out of 6174329
+ 10356 strings out of 494562
+ 145850 string characters out of 6174329
  218458 words of memory out of 5000000
  13892 multiletter control sequences out of 15000+600000
  32552 words of font info for 24 fonts, out of 8000000 for 9000
@@ -640,10 +640,10 @@ lmbx12.pfb></Users/jeremyprovance/Library/TinyTeX/texmf-dist/fonts/type1/public
 lic/lm/lmr17.pfb></Users/jeremyprovance/Library/TinyTeX/texmf-dist/fonts/type1/
 public/lm/lmri10.pfb></Users/jeremyprovance/Library/TinyTeX/texmf-dist/fonts/ty
 pe1/public/lm/lmri12.pfb>
-Output written on index.pdf (7 pages, 166693 bytes).
+Output written on index.pdf (7 pages, 166740 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
