@@ -78,6 +78,14 @@ Tallgrass Brewing Company (Manhattan, Kansas)
 
 ***
 
+PROGRAMMING
+
+**Advanced**: R, SAS, SQL  
+**Intermediate**: MongoDB, Python  
+**Basic**: PHP, HTML, CSS  
+
+***
+
 PEER-REVIEWED PUBLICATIONS
 
 1. **Provance JB**, Spertus JA, Decker C, Jones PG, Smolderen KG. 2019. [Assessing Patient Preferences for Shared Decision-Making in Peripheral Artery Disease: Insights from the PORTRAIT Registry](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.119.005730). *Circulation: Cardiovascular Quality and Outcomes*. 12(8).
@@ -285,14 +293,6 @@ Appointed 2011-2014
 
 **Missouri Boys State Staff Counselor**  
 Summer 2010
-
-***
-
-PROGRAMMING
-
-**Advanced**: R, SAS  
-**Intermediate**: SQL, MongoDB, Python  
-**Basic**: PHP, HTML, CSS  
 
 ***
 
