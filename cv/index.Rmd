@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -130,9 +130,9 @@ MODERATED POSTER PRESENTATIONS
 
 POSTER PRESENTATIONS
 
-1. **The Protective Effects of Smoking on Catatonia**, UMKC 3rd Year Medical Student Poster Presentations, Dec 2019 [[poster](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf)]
+1. **Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length**, UMKC 3rd Year Medical Student Poster Presentations, Dec 2019 [[poster](https://jeremyprovance.github.io/assets/Group_12_Poster.pdf)]
 
-2. **The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed**, UMKC 3rd Year Medical Student Poster Presentations, Dec 2019 [[poster](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf)]
+2. **The Protective Effects of Smoking on Catatonia**, UMKC 3rd Year Medical Student Poster Presentations, Dec 2019 [[poster](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf)]
 
 3. **The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed**, UMKC 3rd Year Medical Student Poster Presentations, Dec 2019 [[poster](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf)]
 
