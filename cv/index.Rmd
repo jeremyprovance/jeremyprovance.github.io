@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -160,7 +160,9 @@ POSTER PRESENTATIONS
 
 ***
 
-AWARDS
+AWARDS & HONORS
+
+2020 - **Scientific Writing Program Selection**, *Genetics Society of America* and *BioKansas*
 
 2019 - **3rd Place (Poster)**, UMKC Community of Scholars Research Symposium
 
