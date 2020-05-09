@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -69,7 +69,7 @@ WORK EXPERIENCE
 * Trained in chemical and physical analysis methods  
 
 *May 2014-December 2014*  
-[**Production Brewer**](jeremyprovance.github.io/assets/tallgrass_brewing.html)  
+[**Production Brewer**](https://jeremyprovance.github.io/assets/tallgrass_brewing.html)  
 Tallgrass Brewing Company (Manhattan, Kansas)
 
 * Developed post-packaging beer microbial stability program
