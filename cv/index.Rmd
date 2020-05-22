@@ -203,8 +203,15 @@ AWARDS & HONORS
 
 GRANT PARTICIPATION
 
+2020-2025 (grant submitted)  
+Role: **Database Analyst**  
+Project: Pragmatic Trial: Medication Adherence Given Individual Change (PT-MAGIC) Study  
+Principle Investigator: Cynthia Russell, PhD, RN  
+Funding Agency: National Institute of Nursing Research (R01)  
+Projected Total Costs: $2,405,190
+
 2016-2018  
-**Electronic Data Warehouse Analyst** (0.2 FTE)  
+Role: **Electronic Data Warehouse Analyst** (0.2 FTE)  
 Project: Practice-Based Evidence Using Local and National Data for Quality Improvement [[press release](https://info.umkc.edu/umatters/umkc-tmc-and-childrens-mercy-win-930k-grant-from-cdc/)]  
 Principal Investigators: Mark Hoffman, PhD; Kamani Lankachandra, MD  
 Funding Agency: Center for Disease Control (RFA-OE16-1602)  
