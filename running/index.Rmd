@@ -16,6 +16,18 @@ output:
 
 ***
 
+#### 2019 Kansas City Marathon
+
+```{r fig.width=10, fig.height=7, echo=FALSE}
+library(png)
+library(grid)
+
+img <- readPNG('2019-10-19.png')
+grid.raster(img)
+```
+
+***
+
 #### 2019 Hospital Hill Half Marathon
 
 ```{r fig.width=10, fig.height=7, echo=FALSE}
