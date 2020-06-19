@@ -13,41 +13,25 @@ output:
 	</ul>
 </nav>
 
+```{r setup, echo = FALSE}
+library(knitr)
+```
 
 ***
 
 #### 2019 Kansas City Marathon
-
-```{r fig.width=10, fig.height=7, echo=FALSE}
-library(png)
-library(grid)
-
-img <- readPNG('2019-10-19.png')
-grid.raster(img)
-```
+![](2019-10-19.png)
 
 ***
 
 #### 2019 Hospital Hill Half Marathon
-
-```{r fig.width=10, fig.height=7, echo=FALSE}
-library(png)
-library(grid)
-
-img <- readPNG('2019-06-01.png')
-grid.raster(img)
-```
-
+![](2019-06-01.png)
 ***
 
 #### 2018 Kansas City Half Marathon
 
-```{r fig.width=10, fig.height=7, echo=FALSE}
-library(png)
-library(grid)
-
-img <- readPNG('2018-10-20.png')
-grid.raster(img)
+```{r echo = FALSE, out.width = '50%'}
+include_graphics('2018-10-20.png')
 ```
 
 ***
