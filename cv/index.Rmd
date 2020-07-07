@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -306,7 +306,7 @@ Appointed August 2016-October 2017
 **UMKC Biomedical & Health Informatics Curriculum Steering Committee**, *Student Representative*  
 Appointed May 2016-May 2017		
 
-**Phi Gamma Delta-Zeta Phi, Board of Graduate Advisors**  
+**Phi Gamma Delta-Zeta Phi, Board of Graduate Advisers**  
 Appointed May 2014
 
 **William Jewell College Student Senate**, *President (2013), Treasurer (2014, 2012)*  
