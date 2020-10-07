@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -108,19 +108,21 @@ ABSTRACTS
 
 1. **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Anderson BS, Smolderen KG. 2020. Factors Associated with 30-Day Amputation in Patients with Chronic Limb-Threatening Ischemia Undergoing Endovascular Intervention. *American College of Cardiology*. Submitted.
 
-2. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. [Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/3006.abstract). *JACC*. 73(9): S1.
+2. **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Smolderen KG. 2020. Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention. *American College of Cardiology*. Submitted.
 
-3. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. [Cross Country Comparison of Leisure Time Physical Activity Trajectories in Patients With Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2100.abstract). *JACC*. 73(9): S1.
+3. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. [Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/3006.abstract). *JACC*. 73(9): S1.
 
-4. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. [Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2093.abstract). *JACC*. 73(9): S1.
+4. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. [Cross Country Comparison of Leisure Time Physical Activity Trajectories in Patients With Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2100.abstract). *JACC*. 73(9): S1.
 
-5. Malik AO, Peri-Okonny P, **Provance JB**, Gosch K, Thomas M, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). *JACC*. 73(9): S1.
+5. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch K, Spertus JA, Smolderen KG. 2019. [Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2093.abstract). *JACC*. 73(9): S1.
 
-6. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [Examining Patients’ Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.15970). *Circulation*. 138: A15970.
+6. Malik AO, Peri-Okonny P, **Provance JB**, Gosch K, Thomas M, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). *JACC*. 73(9): S1.
 
-7. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16038). *Circulation*. 138: A16038.
+7. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [Examining Patients’ Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.15970). *Circulation*. 138: A15970.
 
-8. **Provance JB**, Spertus JA, Safley D, Jones P, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.136.suppl_1.20550). *Circulation*. 136: A20550.
+8. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16038). *Circulation*. 138: A16038.
+
+9. **Provance JB**, Spertus JA, Safley D, Jones P, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.136.suppl_1.20550). *Circulation*. 136: A20550.
 
 ***
 
