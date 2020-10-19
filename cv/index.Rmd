@@ -84,7 +84,7 @@ Provance Consulting LLC
 
 PROGRAMMING
 
-**Expert**: R, SAS, SQL, markdown  
+**Expert**: R, SAS, SQL, Markdown  
 **Intermediate**: MongoDB, Python, MySQL, PostgreSQL  
 **Working Knowledge**: PHP, HTML5, CSS, Oracle, Command Line
 
