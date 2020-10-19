@@ -84,9 +84,9 @@ Provance Consulting LLC
 
 PROGRAMMING
 
-**Advanced**: R, SAS, SQL  
-**Intermediate**: MongoDB, Python  
-**Basic**: PHP, HTML, CSS  
+**Expert**: R, SAS, SQL, markdown  
+**Intermediate**: MongoDB, Python, MySQL, PostgreSQL  
+**Working Knowledge**: PHP, HTML5, CSS, Oracle, Command Line
 
 ***
 
