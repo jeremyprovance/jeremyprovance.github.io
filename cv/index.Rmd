@@ -348,4 +348,4 @@ PERSONAL ACHIEVEMENTS
 
 [Click here to generate a web PDF of this CV](https://jeremyprovance.github.io/cv/index.pdf)
 
-<center> Copyright © 2020 Jeremy B Provance </center>
+<center> Copyright © `r format(Sys.time(), '%Y')` Jeremy B Provance </center>

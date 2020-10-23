@@ -25,5 +25,5 @@ I completed my undergraduate studies in biology at William Jewell College and co
 
 ***
 
-<center> Copyright © 2020 Jeremy B Provance </center>
+<center> Copyright © `r format(Sys.time(), '%Y')` Jeremy B Provance </center>
 
