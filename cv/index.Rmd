@@ -10,6 +10,7 @@ output:
 
 CONTACT
 
+Email: [jeremy.provance\@umkc.edu](mailto:jeremy.provance@umkc.edu)  
 Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
 Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
 Offices: 
