@@ -1,5 +1,5 @@
 ---
-title: "Provance Consulting LLC"
+title: "**Provance** Consulting LLC"
 output:
   html_document:
     css: main.css
