@@ -1,0 +1,19 @@
+---
+title: "Provance Consulting LLC"
+output:
+  html_document:
+    css: main.css
+---
+
+<nav>
+  <ul>
+	  <li><a href="/">About</a></li>
+    <li><a href="/cv">CV</a></li>
+		<li><a href="/consulting">Consulting</a></li>
+    <li><a href="/blog">Blog</a></li>
+	</ul>
+</nav>
+
+***
+
+You can hire me to serve as your data mercenary! I have expertise in biostatistics, databases, data visualization, and predictive modeling. No two data sets are the same and every solution requires deep domain knowledge for it to be useful. I have experience working with large institutions on specific data needs and can deliver results in a timely fashion. If you have interest in hiring me to solve your data problem, inquire at [provance_consulting@icloud.com](mailto:provance_consulting@icloud.com).
