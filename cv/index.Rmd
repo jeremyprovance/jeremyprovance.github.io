@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 ***
 
@@ -15,7 +15,7 @@ output:
 *Twitter*: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
 
 [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)  
-[UMKC School of Medicine](http://med.umkc.edu)  
+[University of Missouri-Kansas City School of Medicine](http://med.umkc.edu)  
 2411 Holmes Street  
 Kansas City MO 64108 USA  
 
@@ -36,7 +36,7 @@ BA Biology (2014), William Jewell College
 
 **PROFESSIONAL EXPERIENCE**
 
-Graduate Research Assistant (2017-Present), Saint Luke's Mid America Heart Institute
+Graduate Research Assistant (2017-Present), Saint Luke's Mid America Heart Institute (Kansas City, Missouri)
 
 Software Support Analyst (2015-Present), UMKC School of Medicine
 
@@ -220,11 +220,11 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 **RESEARCH MENTORSHIP**
 
-2020: Geetha Rajagopal (Medical Student), UMKC School of Medicine
+2020: Geetha Rajagopal, Medical Student, UMKC School of Medicine
 
 2020: 3rd Year Medical Student Neuroscience Statistical Mentorship, UMKC School of Medicine
 
-2019-2020: Fahad Qureshi (Medical Student), UMKC School of Medicine
+2019-2020: Fahad Qureshi, Medical Student, UMKC School of Medicine
 
 2019: 3rd Year Medical Student Neuroscience Statistical Mentorship, UMKC School of Medicine
 
@@ -254,7 +254,7 @@ American Medical Informatics Association (Student Member, 2017-)
 
 **PODCAST APPEARANCES**
 
-*Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials*, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, July 2018
+*Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials*, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, 2018
 
 ***
 
@@ -280,7 +280,7 @@ Inducted 2016
 **UMKC Biomedical & Health Informatics Chair Search Committee**, *Student Representative*  
 Appointed 2016-2017
 
-**UMKC Biomedical & Health Informatics Curriculum Steering Committee**, *Student Representative*  
+**UMKC Biomedical & Health Informatics Curriculum Committee**, *Student Representative*  
 Appointed 2016-2017		
 
 **Phi Gamma Delta-Zeta Phi, Board of Graduate Advisers**  
