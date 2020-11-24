@@ -1,11 +1,10 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
-
 ***
 
 **CONTACT INFORMATION**
