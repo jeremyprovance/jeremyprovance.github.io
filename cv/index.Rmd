@@ -1,97 +1,55 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
 
-CONTACT
+**CONTACT INFORMATION**
 
-Email: [jeremy.provance\@umkc.edu](mailto:jeremy.provance@umkc.edu)  
-Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
-Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
-Offices: 
+*Phone*: +1 (816) 235-1938  
+*Email*: [jeremy.provance\@umkc.edu](mailto:jeremy.provance@umkc.edu)  
+*Web*: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
+*Twitter*: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
 
-* [University of Missouri-Kansas City School of Medicine](http://med.umkc.edu), 5th Floor, [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)
-
-* [Saint Luke's Mid America Heart Institute](https://www.saintlukeskc.org/locations/saint-lukes-mid-america-heart-institute), 9th Floor, [Cardiovascular Outcomes Research Group](https://cvoutcomes.org)
+[Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)  
+[UMKC School of Medicine](http://med.umkc.edu)  
+2411 Holmes Street  
+Kansas City MO 64108 USA  
 
 ***
 
-EDUCATION
+**EDUCATION**
 
-*August 2017-*  
-**Doctoral Candidate**  
-Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/dbhi/) ([University of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
-Dissertation Chair: [Kim G Smolderen, PhD](https://medicine.yale.edu/research-profile/kim_smolderen/)   
-Dissertation Committee: [Brian Anderson, PhD](https://bloch.umkc.edu/faculty-directory-anderson-brian/); [Matthew Bunte, MD](https://doctors.saintlukeskc.org/provider/Matthew+C+Bunte/1458570); [Mark Hoffman, PhD](https://researchers.childrensmercy.org/display/30252); Phil Jones, MS; [John Spertus, MD](http://med.umkc.edu/dir/Spertus-John/); [Todd Vogel, MD](https://www.muhealth.org/doctors/todd-vogel-md)  
-Graduate Research Assistantship: [Cardiovascular Disease Outcomes Research](https://cvoutcomes.org) (Saint Luke's Mid America Heart Institute, Kansas City, Missouri)  
+PhD Bioinformatics (May 2021, expected), [UMKC School of Medicine](http://med.umkc.edu/dbhi/)  
+*Quality of Care and Outcomes in Patients with Critical Limb Ischemia*
 
-*August 2015-May 2017*  
-**Master of Science**  
-Discipline: [Biomedical & Health Informatics](http://med.umkc.edu/dbhi/) ([University of Missouri-Kansas City School of Medicine](http://med.umkc.edu))  
-Thesis Chair: [Kim G Smolderen, PhD](https://medicine.yale.edu/research-profile/kim_smolderen/)   
-Thesis Committee: [Julie Banderas, PharmD](http://med.umkc.edu/dir/Banderas-Julie/); [Mark Hoffman, PhD](https://researchers.childrensmercy.org/display/30252); [John Spertus, MD](http://med.umkc.edu/dir/Spertus-John/)  
-Thesis: [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
+MS Bioinformatics (2017), [UMKC School of Medicine](http://med.umkc.edu/dbhi/)   
+[*Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status*](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
-*August 2010-May 2014*  
-**Bachelor of Arts**  
-Major: Biology ([William Jewell College](https://jewell.edu), Liberty, Missouri)  
-Faculty Mentors: Scott Falke, PhD; [Tara Allen, PhD](https://info.umkc.edu/sbc-directory/directory/tara-allen/)  
-Senior Research Project: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisiae* Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis 
+BA Biology (2014), [William Jewell College](https://jewell.edu)  
+*Fermentation Vessel Geometry Effects on Saccharomyces cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis* 
 
 ***  
 
-WORK EXPERIENCE
+**PROFESSIONAL EXPERIENCE**
 
-*October 2020-*  
-**Independent Informatics Consultant**  
-Provance Consulting LLC
+Independent Consultant (2020-Present), Provance Consulting LLC 
 
-*December 2015-*  
-**Software Support Analyst**  
-[University of Missouri-Kansas City School of Medicine](http://med.umkc.edu), [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/), [Center for Health Insights](https://chi.umkc.edu)  
+Graduate Research Assistant (2017-Present), Saint Luke's Mid America Heart Institute
 
-* Manage installations of REDCap and i2b2 software platforms for UMKC School of Medicine and Truman Medical Center research stakeholders
+Software Support Analyst (2015-Present), [UMKC School of Medicine](http://med.umkc.edu)
 
-* Completed user implementation of i2b2 software package in April 2016
+Microbiologist (2015), [Boulevard Brewing Company](https://www.boulevard.com) (Kansas City, Missouri)
 
-* Experienced with Cerner Health Facts, Microsoft HoloLens, Oculus Rift, Ingenuity Pathways Analysis, Unity, and DNAStar software platforms  
-
-*January 2015-December 2015*  
-[**Microbiologist**](https://jeremyprovance.github.io/assets/boulevard_brewing.html)  
-[Boulevard Brewing Company](https://www.boulevard.com) (Kansas City, Missouri)
-
-* Managed microbiology quality control and analysis lab operations
-
-* Propagated proprietary brewery yeast strains
-
-* Implemented qPCR analysis pipeline
-
-* Trained in chemical and physical analysis methods  
-
-*May 2014-December 2014*  
-[**Production Brewer**](https://jeremyprovance.github.io/assets/tallgrass_brewing.html)  
-[Tallgrass Brewing Company](https://en.wikipedia.org/wiki/Tallgrass_Brewing_Company) (Manhattan, Kansas)
-
-* Developed post-packaging beer microbial stability program
-
-* Developed environmental and sustainability programs  
+Brewer (2014), [Tallgrass Brewing Company](https://en.wikipedia.org/wiki/Tallgrass_Brewing_Company) (Manhattan, Kansas)
 
 ***
 
-PROGRAMMING
-
-**Expert**: R, SAS, SQL, Markdown  
-**Intermediate**: MongoDB, Python, MySQL, PostgreSQL  
-**Working Knowledge**: PHP, HTML5, CSS, Oracle, Command Line
-
-***
-
-PEER-REVIEWED PUBLICATIONS
+**PUBLICATIONS**
 
 1. Smolderen KG, Malik AO, Peri-Okonny P, Gosch K, Thomas BT, Mena C, Hiatt W, Aronow HD, Jones PG, **Provance JB**, Labrosciano C, Jelani Q, Spertus JA. 2020. Association of Perceived Stress with Health Status in Patients with Peripheral Artery Disease. *Journal of Psychosomatic Research*. Accepted
 
@@ -111,7 +69,7 @@ PEER-REVIEWED PUBLICATIONS
 
 ***
 
-ABSTRACTS
+**ABSTRACTS**
 
 1. **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Anderson BS, Smolderen KG. 2020. Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention. *American College of Cardiology*. Submitted.
 
@@ -133,88 +91,89 @@ ABSTRACTS
 
 ***
 
-ORAL PRESENTATIONS
+**ORAL PRESENTATIONS**
 
-1. **Visualization of molecular structures using HoloLens-based augmented reality**, Midwest Bioinformatics Conference, Data Visualization Session, Kansas City, April 2017 [[video, start at 28:35](https://vimeo.com/217083333)]
+1. *Visualization of molecular structures using HoloLens-based augmented reality*, Midwest Bioinformatics Conference, 2017 [[video, start at 28:35](https://vimeo.com/217083333)]
 
-2. **Visualization of molecular structures using HoloLens-based augmented reality**, American Medical Informatics Association Joint Summits for Translational Science, Data Visualization Session, San Francisco, March 2017
-
-***
-
-MODERATED POSTER PRESENTATIONS
-
-1. [**Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), American College of Cardiology Scientific Sessions, New Orleans, March 2019
+2. *Visualization of molecular structures using HoloLens-based augmented reality*, American Medical Informatics Association Joint Summits for Translational Science, 2017
 
 ***
 
-POSTER PRESENTATIONS
+**MODERATED POSTER PRESENTATIONS**
 
-1. [**Patterns of Provider-type Encounters for Patients with Peripheral Artery Disease, Insights from the Cerner Health Facts Database**](https://jeremyprovance.github.io/assets/2020_HSSRS_poster.pdf), UMKC *Virtual* Health Sciences Student Research Summit, May 2020
-
-2. [**Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length**](https://jeremyprovance.github.io/assets/Group_12_Poster.pdf), UMKC 3rd Year Medical Student Poster Presentations, Dec 2019
-
-3. [**The Protective Effects of Smoking on Catatonia**](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf), UMKC 3rd Year Medical Student Poster Presentations, Dec 2019
-
-4. [**The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed**](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf), UMKC 3rd Year Medical Student Poster Presentations, Dec 2019
-
-5. [**Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), Saint Luke’s Hospital Annual Research Day, May 2019
-
-6. [**Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database**](https://jeremyprovance.github.io/assets/2019-04-17_Poster.pdf), UMKC Health Sciences Student Research Summit, April 2019
-
-7. [**Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Health Sciences Student Research Summit, April 2019
-
-8. [**Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Community of Scholars Research Symposium, March 2019
-
-9. [**Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2018-11-10_Poster2.pdf), American Heart Association Scientific Sessions, Chicago, November 2018
-
-10. [**How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2018-11-10_Poster.pdf), American Heart Association Scientific Sessions, Chicago, November 2018
-
-11. [**The Effect of Language Barrier on Prescribing of Pain Medication for Patients Diagnosed in the Emergency Department with Kidney Stones**](https://jeremyprovance.github.io/assets/Ottman_Poster.pdf), Truman Medical Center Emergency Medicine Resident Research Day, May 2018
-
-12. [**Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), Saint Luke’s Hospital Annual Research Day, Kansas City, April 2018
-
-13. [**Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research**](https://jeremyprovance.github.io/assets/2018-04-11_Poster.pdf), Midwest Bioinformatics Conference, Columbia MO, April 2018
-
-14. [**Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry**](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), American Heart Association Scientific Sessions, Anaheim, November 2017
+1. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), American College of Cardiology Scientific Sessions, 2019
 
 ***
 
-AWARDS & HONORS
+**POSTER PRESENTATIONS**
 
-2020 - **Scientific Writing Program Selection**, *Genetics Society of America* and *BioKansas*
+1. [*Patterns of Provider-type Encounters for Patients with Peripheral Artery Disease, Insights from the Cerner Health Facts Database*](https://jeremyprovance.github.io/assets/2020_HSSRS_poster.pdf), UMKC *Virtual* Health Sciences Student Research Summit, 2020
 
-2019 - **3rd Place (Poster)**, UMKC Community of Scholars Research Symposium
+2. [*Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length*](https://jeremyprovance.github.io/assets/Group_12_Poster.pdf), UMKC 3rd Year Medical Student Poster Presentations, 2019
 
-2019 - **Travel grant funded by Ida Bamberger Memorial Research Award** ($750) to present:
+3. [*The Protective Effects of Smoking on Catatonia*](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf), UMKC 3rd Year Medical Student Poster Presentations, 2019
 
-* Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, March 2019
+4. [*The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed*](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf), UMKC 3rd Year Medical Student Poster Presentations, 2019
 
-2019 - **Travel grant funded by UMKC School of Graduate Studies** ($800) to present:
+5. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), Saint Luke’s Hospital Annual Research Day, 2019
 
-* Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry, American College of Cardiology Scientific Sessions, New Orleans, March 2019
+6. [*Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database*](https://jeremyprovance.github.io/assets/2019-04-17_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
 
-2018 - **Travel grant funded by UMKC Student Activity Fee** ($1,200) to present:
+7. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
 
-* Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry, and
-* How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry, American Heart Association Scientific Sessions, Chicago, November 2018
+8. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Community of Scholars Research Symposium, 2019
 
-2018 - [**Sarah Morrison Student Research Award funded by UMKC Office of Research Administration**](https://med.umkc.edu/tag/sarah-morrison-student-research-award/) ($2,500) to complete the project:
-	
-* Studying Amputations in the Cerner Health Facts Database: Overlap with Peripheral Artery Disease, Diabetes, and Prognostic Outcomes
+9. [*Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster2.pdf), American Heart Association Scientific Sessions, 2018
 
-2017 - **Travel grant funded by UMKC Student Activity Fee** ($1,200) to present:
+10. [*How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster.pdf), American Heart Association Scientific Sessions, Chicago, 2018
 
-* Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, November 2017
+11. [*The Effect of Language Barrier on Prescribing of Pain Medication for Patients Diagnosed in the Emergency Department with Kidney Stones*](https://jeremyprovance.github.io/assets/Ottman_Poster.pdf), Truman Medical Center Emergency Medicine Resident Research Day, 2018
 
-2017 - **Travel grant funded by UMKC School of Graduate Studies** ($800) to present:
+12. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), Saint Luke’s Hospital Annual Research Day, 2018
 
-* Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry, American Heart Association Scientific Sessions, Anaheim, November 2017
+13. [*Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research*](https://jeremyprovance.github.io/assets/2018-04-11_Poster.pdf), Midwest Bioinformatics Conference, 2018
+
+14. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), American Heart Association Scientific Sessions, 2017
 
 ***
 
-GRANT PARTICIPATION
+**PROGRAMMING**
 
-2020-2025 (grant submitted)  
+*Expert*: R, SAS, SQL, Markdown  
+*Intermediate*: MongoDB, Python, MySQL, PostgreSQL  
+*Working Knowledge*: PHP, HTML5, CSS, Oracle, Command Line
+
+***
+
+**HONORS & AWARDS**
+
+2020
+
+Scientific Writing Program Selection, Genetics Society of America and BioKansas
+
+2019
+
+3rd Place (Poster), UMKC Community of Scholars Research Symposium
+
+Ida Bamberger Memorial Research Award, UMKC School of Medicine
+
+Travel Award, UMKC School of Graduate Studies
+
+2018
+
+Travel Award, UMKC School of Graduate Studies
+
+[Sarah Morrison Student Research Award](https://med.umkc.edu/tag/sarah-morrison-student-research-award/), UMKC Office of Research Administration
+
+2017
+
+Travel Award, UMKC School of Graduate Studies
+
+***
+
+**GRANT PARTICIPATION**
+
+2020-2025 (submitted)  
 Role: **Database Analyst**  
 Project: Pragmatic Trial: Medication Adherence Given Individual Change (PT-MAGIC) Study  
 Principle Investigator: Cynthia Russell, PhD, RN  
@@ -230,29 +189,39 @@ Grant amount: $956,553 (3 years)
 
 ***
 
-TEACHING & GUEST LECTURES
+**TEACHING EXPERIENCE**
 
-1. **Graduate Instructor**, *MEDB 5512: Clinical Trials*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2021
+Instructor, Department of Biomedical & Health Informatics, UMKC School of Medicine   
+*MEDB 5512: Clinical Trials (2020, 2021)*
 
-2. **Graduate Instructor**, *MEDB 5512: Clinical Trials*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2020
-
-3. **Discussion of [Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, September 2019 [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)] 
-
-4. **Teaching Assistant**, *MEDB 5512: Clinical Trials (Prof. Kim Smolderen)*, Department of Biomedical & Health Informatics (UMKC School of Medicine), Spring 2019
-
-5. **Generalized Linear Mixed Models-Logistic Regression**, Biostatistics III: Multilevel Analysis Course Student Lecture, November 2018
-
-6. **Introduction to Digital Open Science**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2018 [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
-
-7. **Using Cerner i2b2 and Health Facts for Clinical Trials and General Research**, Clinical Trials Graduate Course Guest Lecture, UMKC School of Medicine, February 2018
-
-8. **Visualization of molecular structures using HoloLens-based augmented reality**, UMKC School of Medicine Multi-disciplinary Seminar Guest Lecture, October 2017
-
-9. **Using the De-identified Cerner i2b2 Database as a Research Resource**, UMKC School of Medicine Year 3 Medical Student Neuroscience Course Guest Lecture, October 2017
+Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School of Medicine  
+*MEDB 5512: Clinical Trials (2019)*
 
 ***
 
-RESEARCH MENTORSHIP
+**INVITED PRESENTATIONS & GUEST LECTURES**
+
+2019
+
+*[Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)*, Multi-disciplinary Seminar, UMKC School of Medicine  [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)] 
+
+2018
+
+*Generalized Linear Mixed Models-Logistic Regression*, Biostatistics III, UMKC School of Medicine
+
+*Introduction to Digital Open Science*, Multi-disciplinary Seminar, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
+
+*Using Cerner i2b2 and Health Facts for Clinical Trials and General Research*, Clinical Trials, UMKC School of Medicine
+
+2017
+
+*Visualization of molecular structures using HoloLens-based augmented reality*, Multi-disciplinary Seminar, UMKC School of Medicine 
+
+*Using the De-identified Cerner i2b2 Database as a Research Resource*, Medical Student Neuroscience Course, UMKC School of Medicine 
+
+***
+
+**RESEARCH MENTORSHIP**
 
 2020: Geetha Rajagopal (Medical Student), UMKC School of Medicine
 
@@ -264,11 +233,11 @@ RESEARCH MENTORSHIP
 
 ***
 
-REVIEWING & JUDGING
+**PROFESSIONAL SERVICE**
 
 American Heart Association *Quality of Care & Outcomes Research Scientific Sessions* (Data Science & Health Information Technology Abstract Reviewer, 2020-)
 
-Saint Luke's Hospital Research Day (Poster Judge, May 2019)
+Saint Luke's Hospital Research Day (Poster Judge, 2019)
 
 American Heart Association, *Circulation: Cardiovascular Quality and Outcomes* (Reviewer, 2017-)
 	
@@ -276,7 +245,7 @@ American Medical Informatics Association, *Informatics Summits* (Abstract Review
 
 ***
 
-PROFESSIONAL MEMBERSHIP
+**PROFESSIONAL MEMBERSHIP**
 
 American College of Cardiology (Student Member, 2019-)
 
@@ -286,36 +255,36 @@ American Medical Informatics Association (Student Member, 2017-)
 
 ***
 
-PODCAST APPEARANCES
+**PODCAST APPEARANCES**
 
-**Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials**, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, July 2018
+*Role in implementing i2b2 software, how i2b2 facilitates research goals, and challenges within clinical trials*, The Research Rundown Podcast Series, Episode 3, Cerner Corporation, July 2018
 
 ***
 
-SERVICE LEADERSHIP
+**SERVICE LEADERSHIP**
 
 **UMKC Graduate Student Council**, *President (2019), Vice President (2018), Secretary (2016, 2017)*  
 
 **William Jewell College Presidential Scholars Mentorship Program**, *Mentor*  
-Appointed July 2019
+Appointed 2019
 
 **UMKC School of Graduate Studies Strategic Planning Committee**, *Student Representative*  
-Appointed January 2019-May 2019
+Appointed 2019
 
 **UMKC School of Graduate Studies Assistantship and Tuition Task Force**, *Student Representative*  
-Appointed January 2019-May 2019
+Appointed 2019
 
 **Golden Key International Honor Society**, *Treasurer (2016)*  
-Inducted January 2016
+Inducted 2016
 
 **Omicron Delta Kappa Honor Society**  
-Inducted January 2016
+Inducted 2016
 
 **UMKC Biomedical & Health Informatics Chair Search Committee**, *Student Representative*  
-Appointed August 2016-October 2017
+Appointed 2016-2017
 
 **UMKC Biomedical & Health Informatics Curriculum Steering Committee**, *Student Representative*  
-Appointed May 2016-May 2017		
+Appointed 2016-2017		
 
 **Phi Gamma Delta-Zeta Phi, Board of Graduate Advisers**  
 Appointed May 2014
@@ -335,7 +304,7 @@ Summer 2009
 
 ***
 
-PERSONAL ACHIEVEMENTS
+**PERSONAL ACHIEVEMENTS**
 
 **Kansas City Marathon** *2010, 2011, 2016, 2019*
 
