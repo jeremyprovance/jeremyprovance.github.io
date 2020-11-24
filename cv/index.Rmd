@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 ***
 
@@ -23,13 +23,13 @@ Kansas City MO 64108 USA
 
 **EDUCATION**
 
-PhD Bioinformatics (May 2021, expected), [UMKC School of Medicine](http://med.umkc.edu/dbhi/)  
+PhD Bioinformatics (May 2021, expected), UMKC School of Medicine  
 *Quality of Care and Outcomes in Patients with Critical Limb Ischemia*
 
-MS Bioinformatics (2017), [UMKC School of Medicine](http://med.umkc.edu/dbhi/)   
+MS Bioinformatics (2017), UMKC School of Medicine  
 [*Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status*](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
-BA Biology (2014), [William Jewell College](https://jewell.edu)  
+BA Biology (2014), William Jewell College  
 *Fermentation Vessel Geometry Effects on Saccharomyces cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis* 
 
 ***  
@@ -38,11 +38,11 @@ BA Biology (2014), [William Jewell College](https://jewell.edu)
 
 Graduate Research Assistant (2017-Present), Saint Luke's Mid America Heart Institute
 
-Software Support Analyst (2015-Present), [UMKC School of Medicine](http://med.umkc.edu)
+Software Support Analyst (2015-Present), UMKC School of Medicine
 
-Microbiologist (2015), [Boulevard Brewing Company](https://www.boulevard.com) (Kansas City, Missouri)
+Microbiologist (2015), Boulevard Brewing Company (Kansas City, Missouri)
 
-Brewer (2014), [Tallgrass Brewing Company](https://en.wikipedia.org/wiki/Tallgrass_Brewing_Company) (Manhattan, Kansas)
+Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 ***
 
