@@ -1,18 +1,18 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 ***
 
 **CONTACT INFORMATION**
 
-*Phone*: +1 (816) 235-1938  
-*Email*: [jeremy.provance\@umkc.edu](mailto:jeremy.provance@umkc.edu)  
-*Web*: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
-*Twitter*: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
+Phone: +1 (816) 235-1938  
+Email: [jeremy.provance\@umkc.edu](mailto:jeremy.provance@umkc.edu)  
+Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)  
+Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
 
 [Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)  
 [University of Missouri-Kansas City School of Medicine](http://med.umkc.edu)  
