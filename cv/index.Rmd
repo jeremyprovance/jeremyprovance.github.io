@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 ***
 
@@ -46,7 +46,7 @@ Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 ***
 
-**PUBLICATIONS**
+**PEER-REVIEWED PUBLICATIONS**
 
 1. Smolderen KG, Malik AO, Peri-Okonny P, Gosch K, Thomas BT, Mena C, Hiatt W, Aronow HD, Jones PG, **Provance JB**, Labrosciano C, Jelani Q, Spertus JA. 2020. Association of Perceived Stress with Health Status in Patients with Peripheral Artery Disease. *Journal of Psychosomatic Research*. Accepted.
 
@@ -66,7 +66,7 @@ Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 ***
 
-**ABSTRACTS**
+**PUBLISHED ABSTRACTS**
 
 1. **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Anderson BS, Smolderen KG. 2020. Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention. *American College of Cardiology*. Submitted.
 
@@ -88,7 +88,7 @@ Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 ***
 
-**ORAL PRESENTATIONS**
+**PODIUM PRESENTATIONS**
 
 1. *Visualization of molecular structures using HoloLens-based augmented reality*, Midwest Bioinformatics Conference, 2017 [[video, start at 28:35](https://vimeo.com/217083333)]
 
