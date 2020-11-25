@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 ***
 
@@ -136,9 +136,9 @@ Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 **PROGRAMMING**
 
-*Expert*: R, SAS, SQL, Markdown  
-*Intermediate*: MongoDB, Python, MySQL, PostgreSQL  
-*Working Knowledge*: PHP, HTML5, CSS, Oracle, Command Line
+Expert: R, SAS, SQL, Markdown  
+Intermediate: MongoDB, Python, MySQL, PostgreSQL  
+Working Knowledge: PHP, HTML5, CSS, Oracle, Command Line
 
 ***
 
