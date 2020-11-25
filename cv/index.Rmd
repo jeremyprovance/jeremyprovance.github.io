@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 ***
 
@@ -158,13 +158,19 @@ Travel Award, UMKC School of Graduate Studies
 
 2018
 
-Travel Award, UMKC School of Graduate Studies
-
 [Sarah Morrison Student Research Award](https://med.umkc.edu/tag/sarah-morrison-student-research-award/), UMKC Office of Research Administration
+
+Travel Award, UMKC School of Graduate Studies
 
 2017
 
 Travel Award, UMKC School of Graduate Studies
+
+2016
+
+Omicron Delta Kappa Honor Society
+
+Golden Key International Honor Society
 
 ***
 
