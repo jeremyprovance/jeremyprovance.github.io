@@ -104,33 +104,39 @@ Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 **POSTER PRESENTATIONS**
 
-1. [*Patterns of Provider-type Encounters for Patients with Peripheral Artery Disease, Insights from the Cerner Health Facts Database*](https://jeremyprovance.github.io/assets/2020_HSSRS_poster.pdf), UMKC *Virtual* Health Sciences Student Research Summit, 2020
+1. [*Relationship between Catatonia Treatment and Diagnosis Code, Gender, and Location*](https://jeremyprovance.github.io/assets/2020-Group-12-Poster.pdf), UMKC Medical Student Research Summit, 2020
 
-2. [*Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length*](https://jeremyprovance.github.io/assets/Group_12_Poster.pdf), UMKC Medical Student Research Summit, 2019
+2. [*Comparing Types of Medications Prescribed and Type of Insurance Regarding Catatonia Diagnosis*](https://jeremyprovance.github.io/assets/2020-Group-13-Poster.pdf), UMKC Medical Student Research Summit, 2020
 
-3. [*The Protective Effects of Smoking on Catatonia*](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf), UMKC Medical Student Research Summit, 2019
+3. [*Association Between Insurance Provider and Psychoactive Drug Treatment for Catatonic Patients*](https://jeremyprovance.github.io/assets/2020-Group-14-Poster.pdf), UMKC Medical Student Research Summit, 2020
 
-4. [*The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed*](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf), UMKC Medical Student Research Summit, 2019
+4. [*Patterns of Provider-type Encounters for Patients with Peripheral Artery Disease, Insights from the Cerner Health Facts Database*](https://jeremyprovance.github.io/assets/2020_HSSRS_poster.pdf), UMKC *Virtual* Health Sciences Student Research Summit, 2020
 
-5. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), Saint Luke’s Hospital Annual Research Day, 2019
+5. [*Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length*](https://jeremyprovance.github.io/assets/Group_12_Poster.pdf), UMKC Medical Student Research Summit, 2019
 
-6. [*Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database*](https://jeremyprovance.github.io/assets/2019-04-17_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
+6. [*The Protective Effects of Smoking on Catatonia*](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf), UMKC Medical Student Research Summit, 2019
 
-7. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
+7. [*The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed*](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf), UMKC Medical Student Research Summit, 2019
 
-8. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Community of Scholars Research Symposium, 2019
+8. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), Saint Luke’s Hospital Annual Research Day, 2019
 
-9. [*Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster2.pdf), American Heart Association Scientific Sessions, 2018
+9. [*Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database*](https://jeremyprovance.github.io/assets/2019-04-17_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
 
-10. [*How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster.pdf), American Heart Association Scientific Sessions, Chicago, 2018
+10. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
 
-11. [*The Effect of Language Barrier on Prescribing of Pain Medication for Patients Diagnosed in the Emergency Department with Kidney Stones*](https://jeremyprovance.github.io/assets/Ottman_Poster.pdf), Truman Medical Center Emergency Medicine Resident Research Day, 2018
+11. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Community of Scholars Research Symposium, 2019
 
-12. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), Saint Luke’s Hospital Annual Research Day, 2018
+12. [*Examining Patients’ Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster2.pdf), American Heart Association Scientific Sessions, 2018
 
-13. [*Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research*](https://jeremyprovance.github.io/assets/2018-04-11_Poster.pdf), Midwest Bioinformatics Conference, 2018
+13. [*How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster.pdf), American Heart Association Scientific Sessions, Chicago, 2018
 
-14. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), American Heart Association Scientific Sessions, 2017
+14. [*The Effect of Language Barrier on Prescribing of Pain Medication for Patients Diagnosed in the Emergency Department with Kidney Stones*](https://jeremyprovance.github.io/assets/Ottman_Poster.pdf), Truman Medical Center Emergency Medicine Resident Research Day, 2018
+
+15. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), Saint Luke’s Hospital Annual Research Day, 2018
+
+16. [*Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research*](https://jeremyprovance.github.io/assets/2018-04-11_Poster.pdf), Midwest Bioinformatics Conference, 2018
+
+17. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), American Heart Association Scientific Sessions, 2017
 
 ***
 
