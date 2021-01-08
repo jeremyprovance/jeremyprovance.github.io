@@ -15,7 +15,7 @@ output:
 
 ***
 
-I'm a health informatics PhD candidate at the University of Missouri-Kansas City School of Medicine. My research is under the mentorship of Kim Smolderen, PhD and John Spertus, MD, MPH.
+I'm a health informatics PhD candidate at the University of Missouri-Kansas City School of Medicine. My research is under the mentorship of Kim Smolderen, PhD.
 
 My interests are in the intersection of clinical science and technology, specifically how we can leverage data to understand and improve health and health systems. My goal is to use innovative methods to analyze static data sets to create actionable knowledge and insights to improve health.
 
