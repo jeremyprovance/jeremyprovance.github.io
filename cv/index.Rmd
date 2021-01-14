@@ -212,35 +212,29 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 **INVITED PRESENTATIONS & GUEST LECTURES**
 
-2019
+*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics, UMKC School of Medicine
 
-*[Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)*, Multi-disciplinary Seminar, UMKC School of Medicine  [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)] 
+*[Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145)*, 2019, Multi-disciplinary Seminar, UMKC School of Medicine  [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)] 
 
-2018
+*Generalized Linear Mixed Models-Logistic Regression*, 2018, Biostatistics III, UMKC School of Medicine
 
-*Generalized Linear Mixed Models-Logistic Regression*, Biostatistics III, UMKC School of Medicine
+*Introduction to Digital Open Science*, 2018, Multi-disciplinary Seminar, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
 
-*Introduction to Digital Open Science*, Multi-disciplinary Seminar, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)]
+*Using Cerner i2b2 and Health Facts for Clinical Trials and General Research*, 2018, Clinical Trials, UMKC School of Medicine
 
-*Using Cerner i2b2 and Health Facts for Clinical Trials and General Research*, Clinical Trials, UMKC School of Medicine
+*Visualization of molecular structures using HoloLens-based augmented reality*, 2017, Multi-disciplinary Seminar, UMKC School of Medicine 
 
-2017
-
-*Visualization of molecular structures using HoloLens-based augmented reality*, Multi-disciplinary Seminar, UMKC School of Medicine 
-
-*Using the De-identified Cerner i2b2 Database as a Research Resource*, Medical Student Neuroscience Course, UMKC School of Medicine 
+*Using the De-identified Cerner i2b2 Database as a Research Resource*, 2017, Medical Student Neuroscience Course, UMKC School of Medicine 
 
 ***
 
 **RESEARCH MENTORSHIP**
 
-2020: Geetha Rajagopal, Medical Student, UMKC School of Medicine
+Geetha Rajagopal, Medical Student, UMKC School of Medicine (2020-2021)
 
-2020: Medical Student Neuroscience Course Statistical Mentorship, UMKC School of Medicine
+Medical Student Neuroscience Course Statistical Mentorship, UMKC School of Medicine (2019, 2020)
 
-2019-2020: Fahad Qureshi, Medical Student, UMKC School of Medicine
-
-2019: Medical Student Neuroscience Course Statistical Mentorship, UMKC School of Medicine
+Fahad Qureshi, Medical Student, UMKC School of Medicine (2019-2020)
 
 ***
 
@@ -260,11 +254,11 @@ American Medical Informatics Association, *Informatics Summits* (Abstract Review
 
 **PROFESSIONAL MEMBERSHIP**
 
-American College of Cardiology (Student Member, 2019-)
+American College of Cardiology (Student Member, 2019-Present)
 
-American Heart Association (Student Member, 2017-)
+American Heart Association (Student Member, 2017-Present)
 
-American Medical Informatics Association (Student Member, 2017-)
+American Medical Informatics Association (Student Member, 2017-Present)
 
 ***
 
@@ -302,7 +296,7 @@ William Jewell College Cardinal Hosts (2011-2014)
 
 Missouri Boys State Staff Counselor (2010)  
 
-Missouri Boys State (2009) *Boys Nation Finalist*  
+Missouri Boys State, *Boys Nation Finalist* (2009)   
 
 ***
 
