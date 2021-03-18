@@ -209,7 +209,7 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 **INVITED PRESENTATIONS & GUEST LECTURES**
 
-*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics, UMKC School of Medicine
+*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2021-03-17_Medical-Informatics.pdf)]
 
 [*Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches*](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145), 2019, Multi-disciplinary Seminar, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)]
 
