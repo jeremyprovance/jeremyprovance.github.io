@@ -213,7 +213,9 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 **INVITED PRESENTATIONS & GUEST LECTURES**
 
-*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2021-03-17_Medical-Informatics.pdf)]
+*Quality of Care and Outcomes in Patients with Critical Limb Ischemia: Derivation of a Nationwide Cerner Health Facts Vascular Datamart*, 2021, Yale Internal Medicine Faculty Research Forum, Yale School of Medicine
+
+*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics course, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2021-03-17_Medical-Informatics.pdf)]
 
 [*Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches*](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145), 2019, Multi-disciplinary Seminar, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)]
 
@@ -303,9 +305,9 @@ Missouri Boys State, *Boys Nation Finalist* (2009)
 
 **PERSONAL ACHIEVEMENTS**
 
-Kansas City Marathon *2010, 2011, 2016, 2019*
+Hospital Hill Half Marathon *2017, 2018, 2019, 2021*
 
-Hospital Hill Half Marathon *2017, 2018, 2019*
+Kansas City Marathon *2010, 2011, 2016, 2019*
 
 Kansas City Half Marathon *2012, 2013, 2018*
 
