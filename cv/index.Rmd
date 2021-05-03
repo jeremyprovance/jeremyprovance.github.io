@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, PhD, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -217,7 +217,7 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 **INVITED PRESENTATIONS & GUEST LECTURES**
 
-*Quality of Care and Outcomes in Patients with Critical Limb Ischemia: Derivation of a Nationwide Cerner Health Facts Vascular Datamart*, 2021, Yale Internal Medicine Faculty Research Forum, Yale School of Medicine
+*Quality of Care and Outcomes in Patients with Critical Limb Ischemia: Derivation of a Nationwide Cerner Health Facts Vascular Datamart*, 2021, Yale Internal Medicine Faculty Research Forum, Yale School of Medicine [[slides](https://jeremyprovance.github.io/assets/2021-04-28-Yale-Presentation.pdf)]
 
 *Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics course, UMKC School of Medicine [[slides](https://jeremyprovance.github.io/assets/2021-03-17_Medical-Informatics.pdf)]
 
