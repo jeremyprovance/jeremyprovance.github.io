@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, PhD, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -24,13 +24,13 @@ Kansas City MO 64108 USA
 
 **EDUCATION**
 
-PhD Bioinformatics (2021), UMKC School of Medicine\
+PhD Bioinformatics (2021), University of Missouri-Kansas City School of Medicine  
 Dissertation: *Emerging Methods for High-Fidelity, Real-World Clinical Data Analysis and Applications in Critical Limb Ischemia Quality of Care and Outcomes*
 
-MS Bioinformatics (2017), UMKC School of Medicine\
+MS Bioinformatics (2017), University of Missouri-Kansas City School of Medicine  
 Thesis: [*Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status*](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
-BA Biology (2014), William Jewell College\
+BA Biology (2014), William Jewell College  
 Senior Project: *Fermentation Vessel Geometry Effects on Saccharomyces cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis*
 
 ***
@@ -79,9 +79,9 @@ Production Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 1.  Rajagopal G, **Provance JB**, Abu Kishk M, Drees B. 2021. Predictors of Non-Traumatic Lower Extremity Amputation in Patients with Diabetes and Peripheral Artery Disease. *American Diabetes Association*. Accepted.
 
-2.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Anderson BS, Smolderen KG. 2020. Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention. *American College of Cardiology*. Accepted.
+2.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Anderson BS, Smolderen KG. 2020. [Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2821%2902586-9). *American College of Cardiology*.
 
-3.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Smolderen KG. 2020. Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention. *American College of Cardiology*. Accepted.
+3.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado C, Smolderen KG. 2020. [Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2821%2902583-3). *American College of Cardiology*.
 
 4.  **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. [Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/3006.abstract). *JACC*. 73(9): S1.
 
