@@ -189,13 +189,6 @@ Golden Key International Honor Society, 2016
 
 **GRANT PARTICIPATION**
 
-2020-2025 (submitted)\
-Role: *Database Analyst*\
-Project: Pragmatic Trial: Medication Adherence Given Individual Change (PT-MAGIC) Study\
-Principle Investigator: Cynthia Russell, PhD, RN\
-Funding Agency: National Institute of Nursing Research (R01)\
-Projected Total Costs: \$2,405,190
-
 2016-2018\
 Role: *Electronic Data Warehouse Analyst* (0.2 FTE)\
 Project: [Practice-Based Evidence Using Local and National Data for Quality Improvement](https://med.umkc.edu/umkc-tmc-and-childrens-mercy-win-930k-grant-from-cdc/)\
@@ -236,6 +229,8 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 ***
 
 **RESEARCH MENTORSHIP**
+
+Sunny Ruggeri, UMKC School of Nursing, *Doctoral Committee Member* (2021-2023)
 
 Geetha Rajagopal, Medical Student, UMKC School of Medicine (2020-2021)
 
