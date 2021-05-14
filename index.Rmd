@@ -15,11 +15,7 @@ output:
 
 ***
 
-I'm a health informatics PhD candidate at the University of Missouri-Kansas City School of Medicine. My research is under the mentorship of Kim Smolderen, PhD.
-
-My interests are in the intersection of clinical science and technology, specifically how we can leverage data to understand and improve health and health systems. My goal is to use innovative methods to analyze static data sets to create actionable knowledge and insights to improve health.
-
-I completed my undergraduate studies in biology at William Jewell College and completed a senior research project studying fermentation. I spent time in industrial beer production, first producing beer at Tallgrass Brewing and then analyzing it at Boulevard Brewing, before attending graduate school. I completed my master's degree in health informatics in 2017.
+I'll be joining the [Vascular Medicine Outcomes research group](https://medicine.yale.edu/lab/vamos/) at Yale School of Medicine the summer of 2021. My work aims to use real-world data resources to understand real-world patient care and outcomes.
 
 [Follow me on Twitter!](https://twitter.com/jeremyprovance)
 
