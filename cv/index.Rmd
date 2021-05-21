@@ -25,7 +25,7 @@ Kansas City MO 64108 USA
 **EDUCATION**
 
 PhD Bioinformatics (2021), University of Missouri-Kansas City School of Medicine  
-Dissertation: *Emerging Methods for High-Fidelity, Real-World Clinical Data Analysis and Applications in Critical Limb Ischemia Quality of Care and Outcomes*
+Dissertation: *Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research*
 
 MS Bioinformatics (2017), University of Missouri-Kansas City School of Medicine  
 Thesis: [*Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status*](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
