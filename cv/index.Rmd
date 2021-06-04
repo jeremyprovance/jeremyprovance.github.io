@@ -10,15 +10,14 @@ output:
 
 **CONTACT INFORMATION**
 
-Phone: +1 (816) 235-1938\
-Email: [jeremy.provance\@umkc.edu](mailto:jeremy.provance@umkc.edu)\
+Email: [jeremy.provance\@yale.edu](mailto:jeremy.provance@yale.edu)\
 Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)\
 Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)
 
-[Department of Biomedical & Health Informatics](http://med.umkc.edu/dbhi/)\
-[University of Missouri-Kansas City School of Medicine](http://med.umkc.edu)\
-2411 Holmes Street\
-Kansas City MO 64108 USA
+[Vascular Medicine Outcomes Group](https://medicine.yale.edu/lab/vamos/)\
+[Yale University School of Medicine](https://medicine.yale.edu)\
+789 Howard Avenue\
+New Haven, Connecicut 06519
 
 ***
 
@@ -37,7 +36,7 @@ Senior Project: *Fermentation Vessel Geometry Effects on Saccharomyces cerevisia
 
 **PROFESSIONAL EXPERIENCE**
 
-Postdoctoral Associate (Summer 2021), Yale University School of Medicine (New Haven, Connecticut)
+Postdoctoral Associate (2021-), Yale University School of Medicine (New Haven, Connecticut)
 
 Graduate Research Assistant (2017-2021), Saint Luke's Mid America Heart Institute (Kansas City, Missouri)
 
