@@ -18,7 +18,7 @@ output:
 
 [According to Forbes](https://www.forbes.com/sites/louiscolumbus/2019/01/23/data-scientist-leads-50-best-jobs-in-america-for-2019-according-to-glassdoor/?sh=115d8f6d7474), "data scientist" is top of the list when it comes to the best new jobs in America. This skill set is not common and takes many years of continual learning to master. If you would prefer to outsource this skill set instead of learning it yourself, I may be able to help you.
 
-I have expertise in biostatistics, databases, electronic health records, data visualization, predictive modeling, and cardiovascular outcomes research. No two data sets are the same and every solution requires deep domain knowledge for it to be useful. I have experience working with large institutions on specific data needs and can deliver results in a timely fashion. If you have interest in hiring me to find data solutions for you, or if you want me to teach your group how to perform data methods, inquire at [provance_consulting@icloud.com](mailto:provance_consulting@icloud.com).
+I have expertise in biostatistics, databases, electronic health records, data visualization, predictive modeling, and cardiovascular outcomes research. No two data sets are the same and every solution requires deep domain knowledge for it to be useful. I have experience working with large institutions on specific data needs and can deliver results in a timely fashion. If you have interest in hiring me to find data solutions for you, please reach out!
 
 ***
 
