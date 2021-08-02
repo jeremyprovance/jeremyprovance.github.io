@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, PhD, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -25,7 +25,7 @@ New Haven, Connecticut 06519
 **EDUCATION**
 
 PhD Bioinformatics (2021), University of Missouri-Kansas City School of Medicine  
-Dissertation: *Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research*
+Dissertation: [*Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research*](https://mospace.umsystem.edu/xmlui/handle/10355/84383)
 
 MS Bioinformatics (2017), University of Missouri-Kansas City School of Medicine  
 Thesis: [*Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status*](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
