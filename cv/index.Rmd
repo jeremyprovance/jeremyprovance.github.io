@@ -56,7 +56,7 @@ Production Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 **PEER-REVIEWED PUBLICATIONS**
 
-1. Scierka L, Mena-Hurtado C, Shishehbor M, Spertus JA, Nagpal S, Babrowski T, Bunte MC, Politano A, Humphries M, Kirksey L, Chung J, Alabi O, Soukas P, Parikh S, Faizer R, **Provance JB**, Stone N, Scott K, Fuss C, Pacheco C, Gosch K, Harper-Brooks A, Smolderen KG. The Shifting Care and Outcomes for Patients with Endangered Limbs - Critical Limb Ischemia (SCOPE-CLI) Registry: Overview of Study Design and Rationale. 2021. *Circulation: Cardiovascular Quality and Outcomes*. Under review.
+1. Scierka L, Mena-Hurtado C, Shishehbor M, Spertus JA, Nagpal S, Babrowski T, Bunte MC, Politano A, Humphries M, Kirksey L, Chung J, Alabi O, Soukas P, Parikh S, Faizer R, **Provance JB**, Stone N, Scott K, Fuss C, Pacheco C, Gosch K, Harper-Brooks A, Smolderen KG. The Shifting Care and Outcomes for Patients with Endangered Limbs - Critical Limb Ischemia (SCOPE-CLI) Registry: Overview of Study Design and Rationale. 2021. *American Heart Journal*. Submitted.
 
 2. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2021. Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention. *Journal of Vascular Surgery*. Under review.
 
@@ -174,7 +174,7 @@ Production Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 Expert: R, SAS, SQL, Markdown\
 Intermediate: MongoDB, Python, MySQL, PostgreSQL\
-Working Knowledge: PHP, HTML5, CSS, Oracle, Command Line
+Working Knowledge: Stata, Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 ***
 
@@ -320,6 +320,8 @@ Missouri Boys State, *Boys Nation Finalist* (2009)
 ***
 
 **PERSONAL ACHIEVEMENTS**
+
+Providence Half Marathon *2022*
 
 Hospital Hill Half Marathon *2017, 2018, 2019, 2021*
 
