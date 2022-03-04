@@ -15,7 +15,7 @@ output:
 
 ***
 
-I'll be joining the [Vascular Medicine Outcomes research group](https://medicine.yale.edu/lab/vamos/) at Yale School of Medicine the summer of 2021. My work aims to use real-world data resources to understand real-world patient care and outcomes.
+I'm a postdoctoral data scientist with the [Vascular Medicine Outcomes research group](https://medicine.yale.edu/lab/vamos/) at Yale School of Medicine. My work aims to use real-world data resources to understand real-world patient care and outcomes.
 
 [Follow me on Twitter!](https://twitter.com/jeremyprovance)
 
