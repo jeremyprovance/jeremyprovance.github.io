@@ -56,9 +56,9 @@ Production Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 
 **PROGRAMMING**
 
-Expert: R, SAS, SQL, Markdown\
+Expert: R, SAS, SQL, Stata, Markdown\
 Intermediate: MongoDB, Python, MySQL, PostgreSQL, SPSS\
-Working Knowledge: Stata, Tableau, PHP, HTML5, CSS, Oracle, Command Line
+Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 ***
 
@@ -328,6 +328,8 @@ Missouri Boys State, *Boys Nation Finalist* (2009)
 ***
 
 **PERSONAL ACHIEVEMENTS**
+
+Litchfield Hills Road Race *2022*
 
 Providence Half Marathon *2022*
 
