@@ -66,7 +66,7 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 1. Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado C, Guzman RJ. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Journal of Vascular Surgery*. Under review.
 
-2. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention. *Vascular Medicine*. In Revisions.
+2. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention](https://pubmed.ncbi.nlm.nih.gov/35603755/). *Vascular Medicine*.
 
 3. Scierka L, Mena-Hurtado C, Shishehbor M, Spertus JA, Nagpal S, Babrowski T, Bunte MC, Politano A, Humphries M, Kirksey L, Chung J, Alabi O, Soukas P, Parikh S, Faizer R, **Provance JB**, Stone N, Scott K, Fuss C, Pacheco C, Gosch K, Harper-Brooks A, Smolderen KG. [The Shifting Care and Outcomes for Patients with Endangered Limbs - Critical Limb Ischemia (SCOPE-CLI) Registry: Overview of Study Design and Rationale](https://www.sciencedirect.com/science/article/pii/S2352906722000203). 2022. *IJC Heart & Vascularture*.
 
