@@ -64,31 +64,35 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 **PEER-REVIEWED PUBLICATIONS**
 
-1. Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado C, Guzman RJ. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Journal of Vascular Surgery*. Under review.
+1. Smolderen KG, Gosch K, Arham A, **Provance JB**, Spertus JA, Poosala AB, Shishehbor M, Safley D, Scott K, Stone N, Mena-Hurtado C. Patient Knowledge and Preference for Peripheral Artery Disease Treatment. *Circulation: Cardiovascular Care and Outcomes*. Under Review.
 
-2. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention](https://pubmed.ncbi.nlm.nih.gov/35603755/). *Vascular Medicine*.
+2. Smolderen KG, Romain G, **Provance JB**, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado C. Guideline Directed Medical Therapy and Long-Term Mortality and Amputation Outcomes in Patients Undergoing Peripheral Vascular Interventions. *Annals of Internal Medicine*. Under review.
 
-3. Scierka L, Mena-Hurtado C, Shishehbor M, Spertus JA, Nagpal S, Babrowski T, Bunte MC, Politano A, Humphries M, Kirksey L, Chung J, Alabi O, Soukas P, Parikh S, Faizer R, **Provance JB**, Stone N, Scott K, Fuss C, Pacheco C, Gosch K, Harper-Brooks A, Smolderen KG. [The Shifting Care and Outcomes for Patients with Endangered Limbs - Critical Limb Ischemia (SCOPE-CLI) Registry: Overview of Study Design and Rationale](https://www.sciencedirect.com/science/article/pii/S2352906722000203). 2022. *IJC Heart & Vascularture*.
+3. Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado C, Guzman RJ. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Journal of Vascular Surgery*. Under review.
 
-4. Jelani QUA, Llanos-Chea F, Bogra P, Trejo-Paredes C, **Provance JB**, Huang J, Turner J, Anantha-Narayanan M, Sheikh AB, Smolderen KG, Mena-Hurtado C. 2021. [Guideline-Directed Medical Therapy in Patients with Chronic Kidney Disease Undergoing Endovascular Procedures for Complex Critical Limb Ischemia](https://pubmed.ncbi.nlm.nih.gov/34706363/). *American Journal of Nephrology*.
+4. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention](https://pubmed.ncbi.nlm.nih.gov/35603755/). *Vascular Medicine*.
 
-5. Pichert MD, Smolderen KG, Castro-Dominguez Y, Jelani QA, Nagpal S, **Provance JB**,  Huang J, Malik AO, Secemsky EA, Derbas LA, Mena-Hurtado C. 2021. [Trends in Drug Coated Device Use for Peripheral Arterial Disease: Insights from Vascular Quality Initiative](https://journals.sagepub.com/doi/abs/10.1177/1358863X211043567?journalCode=vmjc). *Vascular Medicine*.
+5. Scierka L, Mena-Hurtado C, Shishehbor M, Spertus JA, Nagpal S, Babrowski T, Bunte MC, Politano A, Humphries M, Kirksey L, Chung J, Alabi O, Soukas P, Parikh S, Faizer R, **Provance JB**, Stone N, Scott K, Fuss C, Pacheco C, Gosch K, Harper-Brooks A, Smolderen KG. 2022. [The Shifting Care and Outcomes for Patients with Endangered Limbs - Critical Limb Ischemia (SCOPE-CLI) Registry: Overview of Study Design and Rationale](https://www.sciencedirect.com/science/article/pii/S2352906722000203). *IJC Heart & Vascularture*.
 
-6. Smolderen KG, Pacheco C, **Provance JB**, Stone N, Fuss C, Decker C, Bunte M, Jelani Q, Safley DM, Secemsky E, Sepucha K, Spatz ES, Mena-Hurtado C, Spertus JA. 2020. [Treatment Decisions for Patients with Peripheral Artery Disease and Symptoms of Claudication: Development Process and Alpha Testing of the SHOW-ME-PAD Decision-Aid](https://journals.sagepub.com/doi/10.1177/1358863X20988780). *Vascular Medicine*.
+6. Jelani QUA, Llanos-Chea F, Bogra P, Trejo-Paredes C, **Provance JB**, Huang J, Turner J, Anantha-Narayanan M, Sheikh AB, Smolderen KG, Mena-Hurtado C. 2021. [Guideline-Directed Medical Therapy in Patients with Chronic Kidney Disease Undergoing Endovascular Procedures for Complex Critical Limb Ischemia](https://pubmed.ncbi.nlm.nih.gov/34706363/). *American Journal of Nephrology*.
 
-7. Malik AO, Peri-Okonny P, Gosch K, Thomas BT, Mena-Hurtado C, Hiatt W, Aronow HD, Jones PG, **Provance JB**, Labrosciano C, Jelani Q, Spertus JA, Smolderen KG. 2020. [Association of Perceived Stress with Health Status in Patients with Peripheral Artery Disease](https://www.sciencedirect.com/science/article/pii/S0022399920308758?dgcid=coauthor). *Journal of Psychosomatic Research*.
+7. Pichert MD, Smolderen KG, Castro-Dominguez Y, Jelani QA, Nagpal S, **Provance JB**,  Huang J, Malik AO, Secemsky EA, Derbas LA, Mena-Hurtado C. 2021. [Trends in Drug Coated Device Use for Peripheral Arterial Disease: Insights from Vascular Quality Initiative](https://journals.sagepub.com/doi/abs/10.1177/1358863X211043567?journalCode=vmjc). *Vascular Medicine*.
 
-8.  Peri-Okonny P, Spertus JA, Malik AO, Jackson EA, Shishehbor MH, Mena-Hurtado C, **Provance JB**, Hejjaji V, Patel S, Gosch KL, Smolderen KG. 2020. [Physical Activity after Treatment for Symptomatic Peripheral Artery Disease](https://www.sciencedirect.com/science/article/pii/S0002914920310808?via%3Dihub). *American Journal of Cardiology*.
+8. Smolderen KG, Pacheco C, **Provance JB**, Stone N, Fuss C, Decker C, Bunte M, Jelani Q, Safley DM, Secemsky E, Sepucha K, Spatz ES, Mena-Hurtado C, Spertus JA. 2020. [Treatment Decisions for Patients with Peripheral Artery Disease and Symptoms of Claudication: Development Process and Alpha Testing of the SHOW-ME-PAD Decision-Aid](https://journals.sagepub.com/doi/10.1177/1358863X20988780). *Vascular Medicine*.
 
-9.  Peri-Okonny P, Patel S, Heyligers JM, Spertus JA, Jackson EA, Malik AO, **Provance JB**, Mena-Hurtado C, Shishehbor MH, Hejjaji V, Gosch KL, Smolderen KG. 2020. [Physical Activity in Patients with Symptomatic Peripheral Artery Disease: Insights from the PORTRAIT Registry](https://www.sciencedirect.com/science/article/pii/S1078588420305281?via%3Dihub). *European Journal of Vascular & Endovascular Surgery*.
+9. Malik AO, Peri-Okonny P, Gosch K, Thomas BT, Mena-Hurtado C, Hiatt W, Aronow HD, Jones PG, **Provance JB**, Labrosciano C, Jelani Q, Spertus JA, Smolderen KG. 2020. [Association of Perceived Stress with Health Status in Patients with Peripheral Artery Disease](https://www.sciencedirect.com/science/article/pii/S0022399920308758?dgcid=coauthor). *Journal of Psychosomatic Research*.
 
-10.  Malik AO, Peri-Okonny P, Gosch K, Thomas M, Mena C, Hiatt WR, Jones PG, **Provance JB**, Labrosciano C, Jelani Q, Spertus JA, Smolderen KG. 2020. [Association of Perceived Stress Levels with Long-Term Mortality in Patients with Peripheral Artery Disease](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767517?guestAccessKey=fdb3baf2-0c3d-4daf-91cf-eb996148b474&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m). *Journal of the American Medical Association Network Open*.
+10.  Peri-Okonny P, Spertus JA, Malik AO, Jackson EA, Shishehbor MH, Mena-Hurtado C, **Provance JB**, Hejjaji V, Patel S, Gosch KL, Smolderen KG. 2020. [Physical Activity after Treatment for Symptomatic Peripheral Artery Disease](https://www.sciencedirect.com/science/article/pii/S0002914920310808?via%3Dihub). *American Journal of Cardiology*.
 
-11.  **Provance JB**, Spertus JA, Decker C, Jones PG, Smolderen KG. 2019. [Assessing Patient Preferences for Shared Decision-Making in Peripheral Artery Disease: Insights from the PORTRAIT Registry](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.119.005730). *Circulation: Cardiovascular Quality and Outcomes*.
+11.  Peri-Okonny P, Patel S, Heyligers JM, Spertus JA, Jackson EA, Malik AO, **Provance JB**, Mena-Hurtado C, Shishehbor MH, Hejjaji V, Gosch KL, Smolderen KG. 2020. [Physical Activity in Patients with Symptomatic Peripheral Artery Disease: Insights from the PORTRAIT Registry](https://www.sciencedirect.com/science/article/pii/S1078588420305281?via%3Dihub). *European Journal of Vascular & Endovascular Surgery*.
 
-12.  Ward-Smith P, Hawks JH, Quallich SA, **Provance JB**. 2018. [Workplace incivility: Perceptions of urology nurses](https://library.suna.org/suna/articles/1215/view). *Urological Nursing*.
+12.  Malik AO, Peri-Okonny P, Gosch K, Thomas M, Mena C, Hiatt WR, Jones PG, **Provance JB**, Labrosciano C, Jelani Q, Spertus JA, Smolderen KG. 2020. [Association of Perceived Stress Levels with Long-Term Mortality in Patients with Peripheral Artery Disease](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767517?guestAccessKey=fdb3baf2-0c3d-4daf-91cf-eb996148b474&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m). *Journal of the American Medical Association Network Open*.
 
-13.  Hoffman MA, **Provance JB**. 2017. [Visualization of Molecular Structures Using HoloLens-based Augmented Reality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543343/). *American Medical Informatics Association Joint Summits on Translational Science Meeting Proceedings*.
+13.  **Provance JB**, Spertus JA, Decker C, Jones PG, Smolderen KG. 2019. [Assessing Patient Preferences for Shared Decision-Making in Peripheral Artery Disease: Insights from the PORTRAIT Registry](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.119.005730). *Circulation: Cardiovascular Quality and Outcomes*.
+
+14.  Ward-Smith P, Hawks JH, Quallich SA, **Provance JB**. 2018. [Workplace incivility: Perceptions of urology nurses](https://library.suna.org/suna/articles/1215/view). *Urological Nursing*.
+
+15.  Hoffman MA, **Provance JB**. 2017. [Visualization of Molecular Structures Using HoloLens-based Augmented Reality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543343/). *American Medical Informatics Association Joint Summits on Translational Science Meeting Proceedings*.
 
 ***
 
@@ -102,7 +106,7 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 4. Smolderen KG, Scierka LE, Romain G, **Provance JB**, Mena-Hurtado CM. 2022. Health System Integrated Measurement-Based Care Using Patient-Reported Outcomes Assessment in Lower-Extremity Peripheral Artery Disease. *American Heart Association*. Submitted.
 
-5. Scierka LE, Mena-Hurtado C, Provance JB, Smolderen KG. 2022. Integrating Mental Health Screening into a Health System Integrated Measurement-Based Care for Patients with Peripheral Artery Disease. *American Heart Association*. Submitted.
+5. Scierka LE, Mena-Hurtado C, **Provance JB**, Smolderen KG. 2022. Integrating Mental Health Screening into a Health System Integrated Measurement-Based Care for Patients with Peripheral Artery Disease. *American Heart Association*. Submitted.
 
 6. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado C, Smolderen KG. 2022. [Rates of Guideline Directed Medical Therapy in Patients with Critical Limb Ischemia Undergoing Major Amputation: Insights from the National Cerner Health Facts Electronic Record Database](https://www.jacc.org/doi/10.1016/S0735-1097%2822%2902762-0). *American College of Cardiology*.
 
@@ -327,7 +331,7 @@ Phi Gamma Delta-Zeta Phi, Board of Graduate Advisers (2014-Present)
 
 William Jewell College Student Senate, *President (2013), Treasurer (2014, 2012)*
 
-Phi Gamma Delta-Zeta Phi, *New Member Educator (2014), Treasurer (2013), Judicial Chair (2012)*
+Phi Gamma Delta-Zeta Phi, *Treasurer (2013)*
 
 William Jewell College Cardinal Hosts (2011-2014)
 
