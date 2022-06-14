@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, PhD, MS *Curriculum Vitae*"
 output:
-  pdf_document: default
   html_document:
     css: main.css
+  pdf_document: default
 ---
 
 ***
@@ -98,7 +98,7 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 **PUBLISHED ABSTRACTS**
 
-1. Hu JR, Smolderen KG, **Provance JB** Romain G, Baumbach A, Velazquez EJ, Lorusso F, Churchwell K, Schulz W, Scierka LE, Mena-Hurtado C. 2022. Guideline Directed Medical Therapy After Peripheral Vascular Intervention and Association with Long-term Outcomes at an Academic Health System. *American Heart Association*. Submitted.
+1. Hu JR, Smolderen KG, **Provance JB**, Romain G, Baumbach A, Velazquez EJ, Lorusso F, Churchwell K, Schulz W, Scierka LE, Mena-Hurtado C. 2022. Guideline Directed Medical Therapy After Peripheral Vascular Intervention and Association with Long-term Outcomes at an Academic Health System. *American Heart Association*. Submitted.
 
 2. SCOPE-CLI Consortium. 2022. Familiarity with Disease Terminology in Patients with a Diagnosis of Critical Limb Ischemia: Insights from the SCOPE-CLI Registry. *American Heart Association*. Submitted.
 
