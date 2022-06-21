@@ -1,9 +1,9 @@
 ---
 title: "Jeremy B **Provance**, PhD, MS *Curriculum Vitae*"
 output:
+  pdf_document: default
   html_document:
     css: main.css
-  pdf_document: default
 ---
 
 ***
@@ -64,11 +64,11 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 **PEER-REVIEWED PUBLICATIONS**
 
-1. Smolderen KG, Gosch KL, Arham A, **Provance JB**, Spertus JA, Poosala AB, Shishehbor M, Safley D, Scott K, Stone N, Mena-Hurtado CI. Patient Knowledge and Preference for Peripheral Artery Disease Treatment. *Circulation: Cardiovascular Care and Outcomes*. Under review.
+1. Scierka LE, Peri-Okonny PA, Spertus JA, Fitridge R, Secemsky ED, Patel MR, Gosch KL, Wang J, Tang Y, **Provance JB**, Labrosciano C, Malik A, Mena-Hurtado CI, Smolderen KG. Applying a Random Forest Approach in Predicting 1-Year Health Status in Patients with Symptomatic Peripheral Artery Disease. *Journal of the American Heart Association*. Under review.
 
-2. Smolderen KG, Romain G, **Provance JB**, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. Guideline Directed Medical Therapy and Long-Term Mortality and Amputation Outcomes in Patients Undergoing Peripheral Vascular Interventions. *Annals of Internal Medicine*. Under review.
+2. Smolderen KG, Gosch KL, Arham A, **Provance JB**, Spertus JA, Poosala AB, Shishehbor M, Safley D, Scott K, Stone N, Mena-Hurtado CI. Patient Knowledge and Preference for Peripheral Artery Disease Treatment. *Circulation: Cardiovascular Care and Outcomes*. Under review.
 
-3. Scierka LE, Peri-Okonny PA, Spertus JA, Fitridge R, Secemsky ED, Patel MR, Gosch KL, Wang J, Tang Y, **Provance JB**, Labrosciano C, Malik A, Mena-Hurtado CI, Smolderen KG. Applying a Random Forest Approach in Predicting 1-Year Health Status in Patients with Symptomatic Peripheral Artery Disease. *Circulation: Cardiovascular Care and Outcomes*. Under review.
+3. Smolderen KG, Romain G, **Provance JB**, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. Guideline Directed Medical Therapy and Long-Term Mortality and Amputation Outcomes in Patients Undergoing Peripheral Vascular Interventions. *Annals of Internal Medicine*. Under review.
 
 4. Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado CI, Guzman RJ. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Journal of Vascular Surgery*. Under review.
 
