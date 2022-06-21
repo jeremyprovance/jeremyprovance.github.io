@@ -26,13 +26,13 @@ New Haven, Connecticut 06519
 **EDUCATION**
 
 PhD Bioinformatics (2021), University of Missouri-Kansas City School of Medicine  
-Dissertation: [*Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research*](https://mospace.umsystem.edu/xmlui/handle/10355/84383)
+Dissertation: [Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research](https://mospace.umsystem.edu/xmlui/handle/10355/84383)
 
 MS Bioinformatics (2017), University of Missouri-Kansas City School of Medicine  
-Thesis: [*Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status*](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
+Thesis: [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
 
 BA Biology (2014), William Jewell College  
-Senior Project: *Fermentation Vessel Geometry Effects on Saccharomyces cerevisiae Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis*
+Senior Project: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisiae* Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis
 
 ***
 
@@ -245,9 +245,9 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 **INVITED PRESENTATIONS & GUEST LECTURES**
 
-*Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database*, 2021, 38th Semi-Annual Meeting, Vascular Study Group of New England.
+*Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database*, 2021, 38th Semi-Annual Meeting, Vascular Study Group of New England
 
-*Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database*, 2021, Yale Cardiology Imaging Conference, Yale School of Medicine.
+*Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database*, 2021, Yale Cardiology Imaging Conference, Yale School of Medicine
 
 *Quality of Care and Outcomes in Patients with Critical Limb Ischemia: Derivation of a Nationwide Cerner Health Facts Vascular Datamart*, 2021, Yale Internal Medicine Faculty Research Forum, Yale School of Medicine [[slides](https://jeremyprovance.github.io/assets/2021-04-28-Yale-Presentation.pdf)]
 
