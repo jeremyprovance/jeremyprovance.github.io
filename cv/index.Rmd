@@ -57,7 +57,7 @@ Production Brewer (2014), Tallgrass Brewing Company (Manhattan, Kansas)
 **PROGRAMMING**
 
 Expert: R, SAS, SQL, Stata, Markdown\
-Intermediate: MongoDB, Python, MySQL, PostgreSQL, SPSS\
+Intermediate: MongoDB, Python, MySQL, SQLite, PostgreSQL, SPSS\
 Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 ***
