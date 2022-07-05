@@ -128,7 +128,7 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 14.  Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch KL, Spertus JA, Smolderen KG. 2019. [Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2093.abstract). *Journal of the American College of Cardiology*.
 
-15.  Malik AO, Peri-Okonny P, **Provance JB**, Gosch KL, Thomas M, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). *Journal of the American College of Cardiology*.
+15.  Malik AO, Peri-Okonny P, **Provance JB**, Gosch KL, Thomas MB, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). *Journal of the American College of Cardiology*.
 
 16.  **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [Examining Patients' Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.15970). *Circulation*. 138: A15970.
 
