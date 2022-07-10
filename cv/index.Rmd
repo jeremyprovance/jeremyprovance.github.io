@@ -13,6 +13,7 @@ output:
 Email: [jeremy.provance\@yale.edu](mailto:jeremy.provance@yale.edu)\
 Personal Website: [jeremyprovance.github.io](https://jeremyprovance.github.io)\
 Institutional Profile: [medicine.yale.edu/profile/jeremy_provance](https://medicine.yale.edu/profile/jeremy_provance/)  
+LinkedIn: [linkedin.com/in/jeremyprovance](www.linkedin.com/in/jeremyprovance)  
 Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)
 
 [Vascular Medicine Outcomes Research Group](https://medicine.yale.edu/lab/vamos/)\
