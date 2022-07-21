@@ -15,12 +15,6 @@ Personal Website: [jeremyprovance.github.io](https://jeremyprovance.github.io)\
 LinkedIn: [linkedin.com/in/jeremyprovance](www.linkedin.com/in/jeremyprovance)  
 Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)
 
-[Vascular Medicine Outcomes Research Group](https://medicine.yale.edu/lab/vamos/)\
-[Department of Internal Medicine](https://medicine.yale.edu/intmed/), [Section of Cardiovascular Medicine](https://medicine.yale.edu/intmed/cardio/centers/)\
-[Yale University School of Medicine](https://medicine.yale.edu)\
-789 Howard Avenue\
-New Haven, Connecticut 06519
-
 ***
 
 **EDUCATION**
@@ -38,7 +32,9 @@ Senior Project: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisia
 
 **PROFESSIONAL EXPERIENCE**
 
-Postdoctoral Associate (2021-), Yale University School of Medicine (New Haven, Connecticut)
+Clinical Data Manager (2022-), Adela Bio (San Francisco, California)
+
+Postdoctoral Associate (2021-2022), Yale University School of Medicine (New Haven, Connecticut)
 
 Graduate Research Assistant (2017-2021), Saint Luke's Mid America Heart Institute (Kansas City, Missouri)
 
