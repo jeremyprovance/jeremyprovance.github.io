@@ -20,10 +20,10 @@ Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)
 **EDUCATION**
 
 PhD Bioinformatics (2021), University of Missouri-Kansas City School of Medicine  
-Dissertation: [Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research](https://mospace.umsystem.edu/xmlui/handle/10355/84383)
+Dissertation: Emerging Methods for Use of Real-World Clinical Data for Cardiovascular Outcomes Research
 
 MS Bioinformatics (2017), University of Missouri-Kansas City School of Medicine  
-Thesis: [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status](https://mospace.umsystem.edu/xmlui/handle/10355/60583)
+Thesis: Decisional Conflict in Peripheral Artery Disease, Association with Treatment Choice and Health Status
 
 BA Biology (2014), William Jewell College  
 Senior Project: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisiae* Metabolites with Gas Chromatograph-Mass Spectroscopy Analysis
@@ -32,7 +32,7 @@ Senior Project: Fermentation Vessel Geometry Effects on *Saccharomyces cerevisia
 
 **PROFESSIONAL EXPERIENCE**
 
-Clinical Data Manager (2022-), Adela Bio (San Francisco, California)
+Clinical Data Manager (2022-), Adela, Inc. (New Haven, Connecticut)
 
 Postdoctoral Associate (2021-2022), Yale University School of Medicine (New Haven, Connecticut)
 
