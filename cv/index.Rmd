@@ -10,10 +10,9 @@ output:
 
 **CONTACT INFORMATION**
 
-Email: [jeremy.provance\@yale.edu](mailto:jeremy.provance@yale.edu)\
+Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)  
 Personal Website: [jeremyprovance.github.io](https://jeremyprovance.github.io)\
 LinkedIn: [linkedin.com/in/jeremyprovance](www.linkedin.com/in/jeremyprovance)  
-Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)
 
 ***
 
@@ -38,7 +37,7 @@ Postdoctoral Associate (2021-2022), Yale University School of Medicine (New Have
 
 Graduate Research Assistant (2017-2021), Saint Luke's Mid America Heart Institute (Kansas City, Missouri)
 
-Software Support Analyst (2015-2021), UMKC School of Medicine
+Software Analyst (2015-2021), UMKC School of Medicine
 
 Graduate Instructor (2020-2021), UMKC School of Medicine
 

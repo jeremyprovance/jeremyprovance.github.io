@@ -3,61 +3,77 @@ output:
   html_document:
     css: main.css
   pdf_document: default
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
+
 <center>
+
 # **Jeremy B Provance, PhD, MS**
+
 ## *Data Scientist*
-***
-New Haven, CT | 203.785.7971 | [jeremy.provance\@yale.edu](mailto:jeremy.provance@yale.edu)\
-Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance) Web: [jeremyprovance.github.io](https://jeremyprovance.github.io)
+
+------------------------------------------------------------------------
+
+New Haven, CT \| 203.785.7971 \|
+[jeremy.provance\@yale.edu](mailto:jeremy.provance@yale.edu)\
+Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance) Web:
+[jeremyprovance.github.io](https://jeremyprovance.github.io)
+
 </center>
 
 Qualifications Summary
 
-* Experienced health informatician working with electronic health record
-and registry databases to perform cardiovascular outcomes research
+-   Experienced health informatician working with electronic health
+    record and registry databases to perform cardiovascular outcomes
+    research
 
-* Expertise in predictive modeling and visualization using relational and
-flat databases with both distributed and non-distributed computing
-platforms
+-   Expertise in predictive modeling and visualization using relational
+    and flat databases with both distributed and non-distributed
+    computing platforms
 
-* Deep knowledge of using health data for effective analysis and
-communicating results to a broad range of stakeholders
+-   Deep knowledge of using health data for effective analysis and
+    communicating results to a broad range of stakeholders
 
-***
+------------------------------------------------------------------------
 
 Experience\
 
 **Postdoctoral Associate**, *Yale University School of Medicine*\
 *June 2021-Present*\
 
-* Derived a research data warehouse from an EPIC electronic health record
-data lake under Spark Hadoop processing and OMOP architecture
+-   Derived a research data warehouse from an EPIC electronic health
+    record data lake under Spark Hadoop processing and OMOP architecture
 
-* Conducted analysis and automated reporting using institutional research
-data warehouses, national observational registries, and CMS databases
+-   Conducted analysis and automated reporting using institutional
+    research data warehouses, national observational registries, and CMS
+    databases
 
-* Managed data capture and quality for multi-site clinical registries
+-   Managed data capture and quality for multi-site clinical registries
 
-**Doctoral Candidate**, *University of Missouri-Kansas City School of Medicine*\
-*August 2017 – May 2021*\
+**Doctoral Candidate**, *University of Missouri-Kansas City School of
+Medicine*\
+*August 2017 -- May 2021*\
 
-* Derived a research data warehouse from the national Cerner Health Facts
-electronic health record database (63 million patients, > 1 billion
-observations) for dissertation research use
+-   Derived a research data warehouse from the national Cerner Health
+    Facts electronic health record database (63 million patients, \> 1
+    billion observations) for dissertation research use
 
-* Conducted research into the quality of care and outcomes for patients
-with cardiovascular disease, which has been presented at international
-conferences and published in high-impact, peer-reviewed journals
+-   Conducted research into the quality of care and outcomes for
+    patients with cardiovascular disease, which has been presented at
+    international conferences and published in high-impact,
+    peer-reviewed journals
 
-***
+------------------------------------------------------------------------
 
 Education\
 
-**Doctor of Philosophy, Bioinformatics** | University of Missouri-Kansas City School of Medicine | 2021\
+**Doctor of Philosophy, Bioinformatics** \| University of
+Missouri-Kansas City School of Medicine \| 2021\
 
-**Master of Science, Bioinformatics** | University of Missouri-Kansas City School of Medicine | 2017\
+**Master of Science, Bioinformatics** \| University of Missouri-Kansas
+City School of Medicine \| 2017\
 
-**Bachelor of Arts, Molecular Biology** | William Jewell College | 2014
-
-
+**Bachelor of Arts, Molecular Biology** \| William Jewell College \|
+2014
