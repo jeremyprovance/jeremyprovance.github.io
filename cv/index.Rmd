@@ -65,7 +65,7 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 3. Smolderen KG, Romain G, **Provance JB**, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. Guideline Directed Medical Therapy and Long-Term Mortality and Amputation Outcomes in Patients Undergoing Peripheral Vascular Interventions. *Journal of the American College of Cardiology: Cardiovascular Interventions*. Under review.
 
-4. Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado CI, Guzman RJ. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Annals of Vascular Surgery*. Accepted.
+4. Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado CI, Guzman RJ. 2022. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Annals of Vascular Surgery*. Accepted.
 
 5. **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention](https://pubmed.ncbi.nlm.nih.gov/35603755/). *Vascular Medicine*.
 
