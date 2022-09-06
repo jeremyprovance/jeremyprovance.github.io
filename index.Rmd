@@ -15,7 +15,7 @@ output:
 
 ***
 
-I'm a postdoctoral data scientist with the [Vascular Medicine Outcomes research group](https://medicine.yale.edu/lab/vamos/) at Yale School of Medicine. My work aims to use real-world data resources to understand real-world patient care and outcomes.
+I'm a clincial data manager at [Adela](https://www.adelabio.com). I received my PhD from the UMKC School of Medicine and completed postdoctoral work at Yale School of Medicine.
 
 [Follow me on Twitter!](https://twitter.com/jeremyprovance)
 
