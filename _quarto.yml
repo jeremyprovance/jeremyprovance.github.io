@@ -10,9 +10,9 @@ website:
     left:
       - href: index.qmd
         text: About
-      - consulting.qmd
       - resume.qmd
       - cv.qmd
+      - consulting.qmd
       - races.qmd
       - blog.qmd
     right:
