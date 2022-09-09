@@ -2,10 +2,4 @@
 title: "Jeremy Provance"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Thanks for visiting. This website is under construction. Please check back soon for updates!

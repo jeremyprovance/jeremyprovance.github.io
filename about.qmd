@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Thanks for visiting. This website is under construction. Please check back soon for updates!
