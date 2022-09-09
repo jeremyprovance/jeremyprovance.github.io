@@ -1,0 +1,67 @@
+---
+title: "Tidy Tuesday | Week `r strftime(Sys.Date(), format = '%V')`"
+description: "Visualizing data with the #rstats community using the #tidyverse."
+author: "Jeremy Provance"
+date: "`r Sys.Date()`"
+categories:
+  - Tidy Tuesday
+  - Visualization
+editor: visual
+draft: true
+---
+
+This week's Tidy Tuesday is all about XXX. 
+
+```{r}
+#| message: false
+#| include: false
+#| results: false
+
+# Load libraries
+library(tidyverse)
+library(tidytuesdayR)
+
+# Read in the latest data set(s)
+TT <- tt_load(last_tuesday())
+
+# Check out the README
+readme(TT)
+
+# Store data in tibble
+PELL <- TT$pell
+```
+
+```{r}
+#| message: false
+#| include: false
+#| results: false
+
+pell_receipients_by_year_line <- PELL |>
+  
+  mutate(Year = as_factor(YEAR),
+         Recipients = RECIPIENT) |>
+  
+  select(Year, Recipients) |>
+  
+  group_by(Year) |>
+  
+  summarise(Recipients_Per_Year = sum(Recipients)) |>
+  
+  ggplot(aes(x = Year, y = Recipients_Per_Year, group = 1)) +
+  
+  geom_line() +
+  
+  labs(title = 'Pell Grant Recipients by Year', xlab = 'Year', ylab = 'Receipients') +
+  
+  theme_minimal()
+
+ggsave(pell_receipients_by_year_line, filename = 'pell_receipients_by_year_line.png')
+```
+
+```{r}
+#| echo: false
+pell_receipients_by_year_line
+```
+
+For the code, go [here](https://github.com/jeremyprovance/jeremyprovance.github.io/tree/master/posts).
+

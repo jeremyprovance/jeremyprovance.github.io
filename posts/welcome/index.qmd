@@ -1,12 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-09-06"
-categories: [news]
+title: "Welcome"
+author: "Jeremy Provance"
+date: "2022-09-09"
+categories:
+  - News
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is my inaugural post on the new website. There will likely be some back-dated posts migrated to this location but I'll use it as a place to share data-related posts, to document races/competitions, and to inevitably post dog pictures...the real purpose of the internet. Welcome!
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+![](new-hampshire.jpeg)

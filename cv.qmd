@@ -1,20 +1,10 @@
----
-title: "Curriculum Vitae"
-output:
-  pdf_document: default
-  html_document:
-    css: main.css
----
+<center>
 
-## Jeremy B Provance, PhD, MS
+# Curriculum Vitae
 
-**CONTACT INFORMATION**
+## **Jeremy B Provance, PhD, MS**
 
-Twitter: [\@jeremyprovance](https://twitter.com/jeremyprovance)\
-Personal Website: [jeremyprovance.github.io](https://jeremyprovance.github.io)\
-LinkedIn: [linkedin.com/in/jeremyprovance](www.linkedin.com/in/jeremyprovance)
-
-------------------------------------------------------------------------
+</center>
 
 **EDUCATION**
 

@@ -1,0 +1,16 @@
+{
+  "hash": "2187037605626511359540c8df22af0d",
+  "result": {
+    "markdown": "---\ntitle: \"Tidy Tuesday | Week 36\"\ndescription: \"Visualizing data with the #rstats community using the #tidyverse.\"\nauthor: \"Jeremy Provance\"\ndate: \"2022-09-09\"\ncategories:\n  - Tidy Tuesday\n  - Visualization\neditor: visual\ndraft: true\n---\n\n\nThis week's Tidy Tuesday is all about XXX. \n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](2022-09-06-Tidy-Tuesday_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\nFor the code, go [here](https://github.com/jeremyprovance/jeremyprovance.github.io/tree/master/posts).\n\n",
+    "supporting": [
+      "2022-09-06-Tidy-Tuesday_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
