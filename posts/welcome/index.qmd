@@ -6,6 +6,6 @@ categories:
   - News
 ---
 
-This is my inaugural post on the new website. There will likely be some back-dated posts migrated to this location but I'll use it as a place to share data-related posts, to document races/competitions, and to inevitably post dog pictures...the real purpose of the internet. Welcome!
+This is my first post on the new website. There will likely be some back-dated posts migrated to this location but I'll use it as a place to share data-related posts, to document races/competitions, and to inevitably post dog pictures...the real purpose of the internet. Welcome!
 
 ![](new-hampshire.jpeg)
