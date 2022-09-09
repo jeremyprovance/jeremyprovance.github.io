@@ -1,5 +1,5 @@
 ---
-title: "jeremyprovance.github.io"
+title: "Jeremy Provance"
 ---
 
 This is a Quarto website.
