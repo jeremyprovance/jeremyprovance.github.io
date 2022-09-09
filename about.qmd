@@ -1,5 +1,3 @@
 ---
 title: "About"
 ---
-
-Thanks for visiting. This website is under construction. Please check back soon for updates!
