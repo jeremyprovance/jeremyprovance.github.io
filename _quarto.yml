@@ -3,12 +3,32 @@ project:
   output-dir: docs
 
 website:
-  title: "jeremyprovance.github.io"
+  title: "Jeremy Provance"
   navbar:
+    background: dark
+    search: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - consulting.qmd
+      - resume.qmd
+      - cv.qmd
+      - races.qmd
+      - blog.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/jeremyprovance
+        aria-label: Twitter
+      - icon: linkedin
+        href: www.linkedin.com/in/jeremyprovance
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/jeremyprovance
+        aria-label: GitHub
+    page-footer:
+      center:
+        - text: "Copyright © `r format(Sys.time(), '%Y')` Jeremy B Provance"
+        - href: index.qmd
 
 format:
   html:
@@ -17,4 +37,5 @@ format:
     toc: true
 
 editor: visual
+
 
