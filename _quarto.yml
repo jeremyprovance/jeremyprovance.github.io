@@ -27,8 +27,6 @@ website:
       - icon: github
         href: https://github.com/jeremyprovance
         aria-label: GitHub
-      - icon: rss
-        href: index.xml
     page-footer:
       center:
         - text: "Copyright © `r format(Sys.time(), '%Y')` Jeremy B Provance"
