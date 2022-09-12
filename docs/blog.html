@@ -65,9 +65,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -174,42 +174,37 @@ ul.task-list{list-style: none;}
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="News" data-listing-date-sort="1662696000000" data-listing-file-modified-sort="1662758560299" data-listing-reading-time-sort="0.23">
-<div class="thumbnail">
-<p><a href="./posts/Welcome/index.html"> <img src="./posts/Welcome/new-hampshire.jpeg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/Welcome/index.html">
-<h3 class="no-anchor listing-title">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="News" data-listing-date-sort="1662696000000" data-listing-file-modified-sort="1662758560299" data-listing-reading-time-sort="0.23">
+<a href="./posts/Welcome/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/Welcome/new-hampshire.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Welcome
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
 News
 </div>
 </div>
-<a href="./posts/Welcome/index.html">
-<div class="listing-description">
+<div class="card-text listing-description">
 This is my first post on the new website. There will likely be some back-dated posts migrated to this location but I’ll use it as a place to share data-related posts, to document races/competitions, and to inevitably post dog pictures…the real purpose of the internet. Welcome!
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/Welcome/index.html">
-<div class="listing-date">
-Sep 9, 2022
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Jeremy Provance
 </div>
-</a>
+<div class="listing-date">
+Sep 9, 2022
 </div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">
