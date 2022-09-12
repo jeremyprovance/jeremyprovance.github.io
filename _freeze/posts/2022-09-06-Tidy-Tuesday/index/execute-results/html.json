@@ -1,0 +1,14 @@
+{
+  "hash": "8c075455d1cbd61f9a8b2ad03f3d92cc",
+  "result": {
+    "markdown": "---\ntitle: \"Tidy Tuesday | Week 38\"\ndescription: 'Visualizing data with the #rstats community using the #tidyverse.'\nauthor: 'Jeremy Provance'\ndate: '2022-09-12'\ncategories:\n  - Tidy Tuesday\n  - Visualization\neditor: visual\n#draft: true\n---\n\n\nThis week's Tidy Tuesday is all about XXX.\n\n\n\n\n\n\n\n![](pell_recipients_by_year_line.jpeg)\n\nFor the code, go [here](https://github.com/jeremyprovance/jeremyprovance.github.io/tree/master/posts).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
