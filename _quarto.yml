@@ -13,9 +13,6 @@ website:
       - consulting.qmd
       - blog.qmd
     right:
-      - icon: facebook
-        href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-        aria-label: Facebook
       - icon: twitter
         href: https://twitter.com/jeremyprovance
         aria-label: Twitter

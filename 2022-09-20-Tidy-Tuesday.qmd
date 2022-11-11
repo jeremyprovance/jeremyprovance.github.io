@@ -28,7 +28,7 @@ TT <- tt_load(last_tuesday())
 readme(TT)
 
 # Store data in tibble
-PELL <- TT$pell
+HYDRO <- TT$HydroWASTE_v10
 ```
 
 ```{r}
