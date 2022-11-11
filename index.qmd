@@ -4,11 +4,12 @@ about:
   image: 2021-Headshot.jpg
   image-width: 15em
 ---
+
 Hey, I'm Jeremy!
 
 My day job involves working with data at [Adela](https://www.adelabio.com) as a clinical data manager. Adela's mission is to develop technology to use simple blood draws to detect, diagnose, and manage cancer with an emphasis on early detection.
 
-I love all things data: wrangling, visualizing, and communicating it. I have worked with data sets big and small, public and proprietary, clinical and clinical-adjacent and have seen and overcome hundreds (if not more) of error messages in the process. I spend most of my time in RStudio using RMarkdown documents to do my work. I used Quarto in RStudio to make this website!
+I love all things data: wrangling, visualizing, and communicating it. I have worked with data sets big and small, public and proprietary, clinical and clinical-adjacent. I spend most of my time in RStudio using RMarkdown documents to do my work. I used Quarto in RStudio to make this website!
 
 Before I was at Adela, I completed a master's and doctorate in bioinformatics at the UMKC School of Medicine and completed postdoctoral work at Yale School of Medicine.
 
