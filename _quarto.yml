@@ -16,6 +16,9 @@ website:
       - icon: twitter
         href: https://twitter.com/jeremyprovance
         aria-label: Twitter
+      - icon: mastodon
+        href: https://mastodon.world/web/@jeremyprovance
+        aria-label: Mastodon
       - icon: linkedin
         href: www.linkedin.com/in/jeremyprovance
         aria-label: LinkedIn
