@@ -16,10 +16,13 @@ Qualifications Summary
 
 ------------------------------------------------------------------------
 
-Experience\
+Experience
+
+**Clinical Data Manager**, *Adela Bio*\
+*Aug 2022-Present*
 
 **Postdoctoral Associate**, *Yale University School of Medicine*\
-*June 2021-Present*\
+*June 2021-July 2022*\
 
 -   Derived a research data warehouse from an EPIC electronic health record data lake under Spark Hadoop processing and OMOP architecture
 
