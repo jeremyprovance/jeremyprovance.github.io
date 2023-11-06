@@ -2,27 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.0.8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Jeremy Provance">
-<meta name="dcterms.date" content="2023-11-01">
-<meta name="description" content="Visualizing data with the #rstats community using the #tidyverse.">
 
-<title>Jeremy Provance, PhD - Tidy Tuesday | Week r strftime(Sys.Date(), format = '%V')</title>
+<title>Jeremy Provance – resume</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
-  vertical-align: middle;
-}
 </style>
 
 
@@ -41,7 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,45 +64,47 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Jeremy Provance, PhD</span>
-    </a>
-  </div>
+      <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Jeremy Provance</span>
+  </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html">
- <span class="menu-text">Curriculum Vitae</span></a>
+    <a class="nav-link active" href="./resume.html" aria-current="page">Resume</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="./cv.html">Curriculum Vitae</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./consulting.html">Consulting</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html">Blog</a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/jeremyprovance"><i class="bi bi-twitter" role="img" aria-label="Twitter">
 </i> 
- <span class="menu-text"></span></a>
+ </a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://mastodon.social/@jeremyprovance"><i class="bi bi-mastodon" role="img" aria-label="Mastodon">
+    <a class="nav-link" href="https://mastodon.world/web/@jeremyprovance"><i class="bi bi-mastodon" role="img" aria-label="Mastodon">
 </i> 
- <span class="menu-text"></span></a>
+ </a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="./www.linkedin.com/in/jeremyprovance"><i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
 </i> 
- <span class="menu-text"></span></a>
+ </a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/jeremyprovance"><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
- <span class="menu-text"></span></a>
+ </a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -123,75 +117,69 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#resume" id="toc-resume" class="nav-link active" data-scroll-target="#resume">Resume</a>
+  <ul class="collapse">
+  <li><a href="#jeremy-b-provance-phd-ms" id="toc-jeremy-b-provance-phd-ms" class="nav-link" data-scroll-target="#jeremy-b-provance-phd-ms"><strong>Jeremy B Provance, PhD, MS</strong></a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Tidy Tuesday | Week 44</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Tidy Tuesday</div>
-    <div class="quarto-category">Visualization</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Visualizing data with the #rstats community using the #tidyverse.
-  </div>
-</div>
 
 
-<div class="quarto-title-meta">
+<center>
+<section id="resume" class="level1">
+<h1>Resume</h1>
+<section id="jeremy-b-provance-phd-ms" class="level2">
+<h2 class="anchored" data-anchor-id="jeremy-b-provance-phd-ms"><strong>Jeremy B Provance, PhD, MS</strong></h2>
+</section></section></center>
+<p>Qualifications Summary</p>
+<ul>
+<li><p>Experienced health informatician working with electronic health record and registry databases to perform cardiovascular outcomes research</p></li>
+<li><p>Expertise in predictive modeling and visualization using relational and flat databases with both distributed and non-distributed computing platforms</p></li>
+<li><p>Deep knowledge of using health data for effective analysis and communicating results to a broad range of stakeholders</p></li>
+</ul>
+<hr>
+<p>Experience</p>
+<p><strong>Clinical Data Manager</strong>, <em>Adela Bio</em><br>
+<em>Aug 2022-Present</em></p>
+<p><strong>Postdoctoral Associate</strong>, <em>Yale University School of Medicine</em><br>
+<em>June 2021-July 2022</em><br>
+</p>
+<ul>
+<li><p>Derived a research data warehouse from an EPIC electronic health record data lake under Spark Hadoop processing and OMOP architecture</p></li>
+<li><p>Conducted analysis and automated reporting using institutional research data warehouses, national observational registries, and CMS databases</p></li>
+<li><p>Managed data capture and quality for multi-site clinical registries</p></li>
+</ul>
+<p><strong>Doctoral Candidate</strong>, <em>University of Missouri-Kansas City School of Medicine</em><br>
+<em>August 2017 – May 2021</em><br>
+</p>
+<ul>
+<li><p>Derived a research data warehouse from the national Cerner Health Facts electronic health record database (63 million patients, &gt; 1 billion observations) for dissertation research use</p></li>
+<li><p>Conducted research into the quality of care and outcomes for patients with cardiovascular disease, which has been presented at international conferences and published in high-impact, peer-reviewed journals</p></li>
+</ul>
+<hr>
+<p>Education<br>
+</p>
+<p><strong>Doctor of Philosophy, Bioinformatics</strong> | University of Missouri-Kansas City School of Medicine | 2021<br>
+</p>
+<p><strong>Master of Science, Bioinformatics</strong> | University of Missouri-Kansas City School of Medicine | 2017<br>
+</p>
+<p><strong>Bachelor of Arts, Molecular Biology</strong> | William Jewell College | 2014</p>
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Jeremy Provance </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">November 1, 2023</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
 
-</header>
-
-<p>This week’s Tidy Tuesday is all about XXX.</p>
-<p>For the code, go <a href="https://github.com/jeremyprovance/jeremyprovance.github.io/tree/master/posts">here</a>.</p>
 
 
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -213,24 +201,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
     setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -258,50 +229,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      let href = ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
       });
-    }
+      return popup.innerHTML;
+    });
   }
 });
 </script>

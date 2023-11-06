@@ -51,13 +51,13 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 1.  Scierka LE, Peri-Okonny PA, Spertus JA, Fitridge R, Secemsky ED, Patel MR, Gosch KL, Wang J, Tang Y, **Provance JB**, Labrosciano C, Malik A, Mena-Hurtado CI, Smolderen KG. Applying a Random Forest Approach in Predicting 1-Year Health Status in Patients with Symptomatic Peripheral Artery Disease. *Journal of the American Heart Association*. Under review.
 
-2.  Smolderen KG, Gosch KL, Arham A, **Provance JB**, Spertus JA, Poosala AB, Shishehbor M, Safley D, Scott K, Stone N, Mena-Hurtado CI. Patient Knowledge and Preference for Peripheral Artery Disease Treatment. *Circulation: Cardiovascular Care and Outcomes*. Under review.
+2.  Smolderen KG, Gosch KL, Arham A, **Provance JB**, Spertus JA, Poosala AB, Shishehbor M, Safley D, Scott K, Stone N, Mena-Hurtado CI. [Patient Knowledge and Preference for Peripheral Artery Disease Treatment](https://doi.org/10.1177/1358863X231181613). *Journal of Vascular Medicine*.
 
-3.  Smolderen KG, Romain G, **Provance JB**, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. Guideline Directed Medical Therapy and Long-Term Mortality and Amputation Outcomes in Patients Undergoing Peripheral Vascular Interventions. *Journal of the American College of Cardiology: Cardiovascular Interventions*. Under review.
+3.  Smolderen KG, Romain G, **Provance JB**, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. [Guideline Directed Medical Therapy and Long-Term Mortality and Amputation Outcomes in Patients Undergoing Peripheral Vascular Interventions](10.1016/j.jcin.2022.09.022). *Journal of the American College of Cardiology: Cardiovascular Interventions*.
 
-4.  Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado CI, Guzman RJ. 2022. Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass. *Annals of Vascular Surgery*. Accepted.
+4.  Brahmandam A, Lee M, Bellamkonda K, **Provance JB**, Sumpio B, Ochoa Chaar CI, Smolderen KG, Mena-Hurtado CI, Guzman RJ. 2022. [Variability in Antithrombotic Therapy After Infrainguinal Lower Extremity Bypass](10.1016/j.avsg.2022.08.016). *Annals of Vascular Surgery*.
 
-5.  **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention](https://pubmed.ncbi.nlm.nih.gov/35603755/). *Vascular Medicine*.
+5.  **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Factors Associated with 30-Day Major Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Peripheral Vascular Intervention](https://pubmed.ncbi.nlm.nih.gov/35603755/). *Journal of Vascular Medicine*.
 
 6.  Scierka L, Mena-Hurtado CI, Shishehbor M, Spertus JA, Nagpal S, Babrowski T, Bunte MC, Politano A, Humphries M, Kirksey L, Chung J, Alabi O, Soukas P, Parikh S, Faizer R, **Provance JB**, Stone N, Scott K, Fuss C, Pacheco C, Gosch KL, Harper-Brooks A, Smolderen KG. 2022. [The Shifting Care and Outcomes for Patients with Endangered Limbs - Critical Limb Ischemia (SCOPE-CLI) Registry: Overview of Study Design and Rationale](https://www.sciencedirect.com/science/article/pii/S2352906722000203). *IJC Heart & Vascularture*.
 
@@ -85,37 +85,39 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 **PUBLISHED ABSTRACTS**
 
-1.  Hu JR, Smolderen KG, **Provance JB**, Romain G, Baumbach A, Velazquez EJ, Lorusso F, Churchwell K, Schulz WL, Scierka LE, Mena-Hurtado CI. 2022. Guideline Directed Medical Therapy After Peripheral Vascular Intervention and Association with Long-term Outcomes at an Academic Health System. *American Heart Association*. Accepted.
+1. Ruggeri SY, Russell CL, Alexander GL, Bartlett Ellis RJ, Chesnut SR, Erickson LA, **Provance JB**. 2024. The RESILIENT Study: A retrospective, descriptive, correlational investigation of rate and correlates of oral endocrine therapy adherence in older women with breast cancer. Eastern Nursing Research Society. Submitted.
 
-2.  Smolderen KG, Shishehbor MH, Alabi O, Fitridge R, **Provance JB**, Babrowski T, Romain G, Soukas P, Bunte MC, Scierka LE, van Roij E, Mena-Hurtado CI. 2022. A Call to Action for Mental Health Needs Among Patients Diagnosed with Critical Limb Ischemia: Insights from the SCOPE-CLI Registry. *American Heart Association*. Accepted.
+2.  Hu JR, Smolderen KG, **Provance JB**, Romain G, Baumbach A, Velazquez EJ, Lorusso F, Churchwell K, Schulz WL, Scierka LE, Mena-Hurtado CI. 2022. [Guideline Directed Medical Therapy After Peripheral Vascular Intervention and Association with Long-term Outcomes at an Academic Health System](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.14375). *American Heart Association*.
 
-3.  Scierka LE, Mena-Hurtado CI, Romain G, **Provance JB**, Bradley B, Lynch S, Bascombe A, Siddiqui WT, Rahman M, Bogra P, van Roij E, Nagpal S, Lorusso F, Velazquez EJ, Churchwell KB, Smolderen KG. 2022. Integrating Mental Health Screening into a Health System Integrated Measurement-Based Care for Patients with Peripheral Artery Disease. *American Heart Association*. Accepted.
+3.  Smolderen KG, Shishehbor MH, Alabi O, Fitridge R, **Provance JB**, Babrowski T, Romain G, Soukas P, Bunte MC, Scierka LE, van Roij E, Mena-Hurtado CI. 2022. [A Call to Action for Mental Health Needs Among Patients Diagnosed with Critical Limb Ischemia: Insights from the SCOPE-CLI Registry](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.15400). *American Heart Association*.
 
-4.  **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Rates of Guideline Directed Medical Therapy in Patients with Critical Limb Ischemia Undergoing Major Amputation: Insights from the National Cerner Health Facts Electronic Record Database](https://www.jacc.org/doi/10.1016/S0735-1097%2822%2902762-0). *American College of Cardiology*.
+4.  Scierka LE, Mena-Hurtado CI, Romain G, **Provance JB**, Bradley B, Lynch S, Bascombe A, Siddiqui WT, Rahman M, Bogra P, van Roij E, Nagpal S, Lorusso F, Velazquez EJ, Churchwell KB, Smolderen KG. 2022. [Integrating Mental Health Screening into a Health System Integrated Measurement-Based Care for Patients with Peripheral Artery Disease](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.10253). *American Heart Association*.
 
-5.  Lee M, Smolderen KG, Harris KM, Romain G, Scierka LE, **Provance JB**, Mena-Hurtado CI. 2022. [Lower-Extremity Symptoms an Ankle-Brachial Index Screening as Predictors of Cardiovascular Outcomes in Black Adults: Insights from the Jackson Heart Study](https://www.jacc.org/doi/full/10.1016/S0735-1097%2822%2902736-X). *American College of Cardiology*.
+5.  **Provance JB**, Spertus JA, Jones PG, Hoffman MA, Bunte MC, Vogel TR, Mena-Hurtado CI, Smolderen KG. 2022. [Rates of Guideline Directed Medical Therapy in Patients with Critical Limb Ischemia Undergoing Major Amputation: Insights from the National Cerner Health Facts Electronic Record Database](https://www.jacc.org/doi/10.1016/S0735-1097%2822%2902762-0). *American College of Cardiology*.
 
-6.  **Provance JB**, Smolderen KG, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. 2021. [Guideline Directed Medical Therapy After Peripheral Vascular Intervention And One-year Mortality In Patients With Peripheral Artery Disease In The Vascular Quality Initiative Medicare Linked Database](https://www.abstractsonline.com/pp8/?_ga=2.194332461.18622517.1628715498-1850237547.1616596165#!/9349/presentation/9377). *American Heart Association*.
+6.  Lee M, Smolderen KG, Harris KM, Romain G, Scierka LE, **Provance JB**, Mena-Hurtado CI. 2022. [Lower-Extremity Symptoms an Ankle-Brachial Index Screening as Predictors of Cardiovascular Outcomes in Black Adults: Insights from the Jackson Heart Study](https://www.jacc.org/doi/full/10.1016/S0735-1097%2822%2902736-X). *American College of Cardiology*.
 
-7.  Rajagopal G, **Provance JB**, Abu Kishk M, Drees BM. 2021. [Predictors of Non-Traumatic Lower Extremity Amputation in Patients with Diabetes and Peripheral Artery Disease](https://diabetesjournals.org/diabetes/article/70/Supplement_1/1053-P/140338/1053-P-Predictors-of-Nontraumatic-Lower-Extremity). *American Diabetes Association*.
+7.  **Provance JB**, Smolderen KG, Mao J, Goodney PP, Henke PK, Sedrakyan A, Mena-Hurtado CI. 2021. [Guideline Directed Medical Therapy After Peripheral Vascular Intervention And One-year Mortality In Patients With Peripheral Artery Disease In The Vascular Quality Initiative Medicare Linked Database](https://www.abstractsonline.com/pp8/?_ga=2.194332461.18622517.1628715498-1850237547.1616596165#!/9349/presentation/9377). *American Heart Association*.
 
-8.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado CI, Anderson BS, Smolderen KG. 2020. [Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2821%2902586-9). *American College of Cardiology*.
+8.  Rajagopal G, **Provance JB**, Abu Kishk M, Drees BM. 2021. [Predictors of Non-Traumatic Lower Extremity Amputation in Patients with Diabetes and Peripheral Artery Disease](https://diabetesjournals.org/diabetes/article/70/Supplement_1/1053-P/140338/1053-P-Predictors-of-Nontraumatic-Lower-Extremity). *American Diabetes Association*.
 
-9.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado CI, Smolderen KG. 2020. [Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2821%2902583-3). *American College of Cardiology*.
+9.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado CI, Anderson BS, Smolderen KG. 2020. [Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2821%2902586-9). *American College of Cardiology*.
 
-10. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. [Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/3006.abstract). *Journal of the American College of Cardiology*.
+10.  **Provance JB**, Spertus JA, Jones PG, Bunte MC, Vogel TR, Hoffman MA, Mena-Hurtado CI, Smolderen KG. 2020. [Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2821%2902583-3). *American College of Cardiology*.
 
-11. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch KL, Spertus JA, Smolderen KG. 2019. [Cross Country Comparison of Leisure Time Physical Activity Trajectories in Patients With Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2100.abstract). *Journal of the American College of Cardiology*.
+11. **Provance JB**, Spertus JA, Decker C, Buchanan D, Jones P, Smolderen KG. 2019. [Preferences and Patterns of Shared Decision-Making in Patients With Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/3006.abstract). *Journal of the American College of Cardiology*.
 
-12. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch KL, Spertus JA, Smolderen KG. 2019. [Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2093.abstract). *Journal of the American College of Cardiology*.
+12. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch KL, Spertus JA, Smolderen KG. 2019. [Cross Country Comparison of Leisure Time Physical Activity Trajectories in Patients With Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2100.abstract). *Journal of the American College of Cardiology*.
 
-13. Malik AO, Peri-Okonny P, **Provance JB**, Gosch KL, Thomas MB, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). *Journal of the American College of Cardiology*.
+13. Peri-Okonny P, Malik A, **Provance JB**, Hejjaji V, Gosch KL, Spertus JA, Smolderen KG. 2019. [Leisure Time Physical Activity After Invasive Treatment For Symptomatic Peripheral Artery Disease: Insights From the PORTRAIT Registry](http://www.onlinejacc.org/content/73/9_Supplement_1/2093.abstract). *Journal of the American College of Cardiology*.
 
-14. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [Examining Patients' Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.15970). *Circulation*. 138: A15970.
+14. Malik AO, Peri-Okonny P, **Provance JB**, Gosch KL, Thomas MB, Labrosciano C, Spertus JA, Smolderen KG. 2019. [The Association of Perceived Stress With Health Status Outcomes in Patients With Peripheral Artery Disease](http://www.onlinejacc.org/content/73/9_Supplement_1/2081.abstract). *Journal of the American College of Cardiology*.
 
-15. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16038). *Circulation*. 138: A16038.
+15. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [Examining Patients' Knowledge With Regards to Peripheral Artery Disease Treatments and Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.15970). *Circulation*. 138: A15970.
 
-16. **Provance JB**, Spertus JA, Safley D, Jones PG, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.136.suppl_1.20550). *Circulation*. 136: A20550.
+16. **Provance JB**, Spertus JA, Decker C, Smolderen KG. 2018. [How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights From the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.138.suppl_1.16038). *Circulation*. 138: A16038.
+
+17. **Provance JB**, Spertus JA, Safley D, Jones PG, Sepucha K, Spatz E, Decker C, Smolderen KG. 2017. [Decisional Conflict in Peripheral Artery Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry](https://www.ahajournals.org/doi/abs/10.1161/circ.136.suppl_1.20550). *Circulation*. 136: A20550.
 
 ------------------------------------------------------------------------
 
@@ -129,53 +131,53 @@ Working Knowledge: Tableau, PHP, HTML5, CSS, Oracle, Command Line
 
 **MODERATED POSTER PRESENTATIONS**
 
-1.  [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), American College of Cardiology Scientific Sessions, 2019
+1.  *Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*, American College of Cardiology Scientific Sessions, 2019
 
 ------------------------------------------------------------------------
 
 **POSTER PRESENTATIONS**
 
-1.  Rates of Guideline Directed Medical Therapy in Patients with Critical Limb Ischemia Undergoing Major Amputation: Insights from the Cerner Health Facts Electronic Health Record Database, American College of Cardiology Scientific Sessions, 2022
+1.  *Rates of Guideline Directed Medical Therapy in Patients with Critical Limb Ischemia Undergoing Major Amputation: Insights from the Cerner Health Facts Electronic Health Record Database*, American College of Cardiology Scientific Sessions, 2022
 
-2.  Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database, American Heart Association Scientific Sessions, 2021
+2.  *Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database*, American Heart Association Scientific Sessions, 2021
 
-3.  [Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://jeremyprovance.github.io/assets/2021-05-15_Poster-1.pdf), American College of Cardiology Scientific Sessions, 2021
+3.  *Factors Associated with 30-Day Amputation in Patients with Critical Limb Ischemia Undergoing Endovascular Intervention*, American College of Cardiology Scientific Sessions, 2021
 
-4.  [Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention](https://jeremyprovance.github.io/assets/2021-05-15_Poster-2.pdf), American College of Cardiology Scientific Sessions, 2021
+4.  *Site Variability in 30-Day Amputation Rates Among Patients with Critical Limb Ischemia Undergoing Endovascular Intervention*, American College of Cardiology Scientific Sessions, 2021
 
-5.  [*Relationship between Catatonia Treatment and Diagnosis Code, Gender, and Location*](https://jeremyprovance.github.io/assets/2020-Group-12-Poster.pdf), UMKC Medical Student Research Summit, 2020
+5.  *Relationship between Catatonia Treatment and Diagnosis Code, Gender, and Location*, UMKC Medical Student Research Summit, 2020
 
-6.  [*Comparing Types of Medications Prescribed and Type of Insurance Regarding Catatonia Diagnosis*](https://jeremyprovance.github.io/assets/2020-Group-13-Poster.pdf), UMKC Medical Student Research Summit, 2020
+6.  *Comparing Types of Medications Prescribed and Type of Insurance Regarding Catatonia Diagnosis*, UMKC Medical Student Research Summit, 2020
 
-7.  [*Association Between Insurance Provider and Psychoactive Drug Treatment for Catatonic Patients*](https://jeremyprovance.github.io/assets/2020-Group-14-Poster.pdf), UMKC Medical Student Research Summit, 2020
+7.  *Association Between Insurance Provider and Psychoactive Drug Treatment for Catatonic Patients*, UMKC Medical Student Research Summit, 2020
 
-8.  [*Patterns of Provider-type Encounters for Patients with Peripheral Artery Disease, Insights from the Cerner Health Facts Database*](https://jeremyprovance.github.io/assets/2020_HSSRS_poster.pdf), UMKC *Virtual* Health Sciences Student Research Summit, 2020
+8.  *Patterns of Provider-type Encounters for Patients with Peripheral Artery Disease, Insights from the Cerner Health Facts Database*, UMKC *Virtual* Health Sciences Student Research Summit, 2020
 
-9.  [*Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length*](https://jeremyprovance.github.io/assets/Group_12_Poster.pdf), UMKC Medical Student Research Summit, 2019
+9.  *Catatonic patients given atypical antipsychotics have a significantly longer length of stay Catatonic patients treated early with a benzodiazepine have a significantly shorter length*, UMKC Medical Student Research Summit, 2019
 
-10. [*The Protective Effects of Smoking on Catatonia*](https://jeremyprovance.github.io/assets/Group_13_Poster.pdf), UMKC Medical Student Research Summit, 2019
+10. *The Protective Effects of Smoking on Catatonia*, UMKC Medical Student Research Summit, 2019
 
-11. [*The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed*](https://jeremyprovance.github.io/assets/Group_14_Poster.pdf), UMKC Medical Student Research Summit, 2019
+11. *The Effects of Insurance Status on the Route Type of the Catatonia Medication Prescribed*, UMKC Medical Student Research Summit, 2019
 
-12. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), Saint Luke's Hospital Annual Research Day, 2019
+12. *Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*, Saint Luke's Hospital Annual Research Day, 2019
 
-13. [*Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database*](https://jeremyprovance.github.io/assets/2019-04-17_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
+13. *Studying Non-Traumatic, Lower-Limb Amputations in the Cerner Health Facts EMR Database*, UMKC Health Sciences Student Research Summit, 2019
 
-14. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Health Sciences Student Research Summit, 2019
+14. *Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*, UMKC Health Sciences Student Research Summit, 2019
 
-15. [*Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2019-03-16_Poster.pdf), UMKC Community of Scholars Research Symposium, 2019
+15. *Preferences and Patterns of Shared Decision-Making in Patients with Peripheral Artery Disease: Insights from the PORTRAIT Registry*, UMKC Community of Scholars Research Symposium, 2019
 
-16. [*Examining Patients' Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster2.pdf), American Heart Association Scientific Sessions, 2018
+16. *Examining Patients' Knowledge with Regards to Peripheral Artery Disease Treatments and Outcomes: Insights from the PORTRAIT Registry*, American Heart Association Scientific Sessions, 2018
 
-17. [*How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2018-11-10_Poster.pdf), American Heart Association Scientific Sessions, Chicago, 2018
+17. *How Patients Value Different Treatment Goals and Outcomes in Peripheral Artery Disease Outcomes: Insights from the PORTRAIT Registry*, American Heart Association Scientific Sessions, Chicago, 2018
 
-18. [*The Effect of Language Barrier on Prescribing of Pain Medication for Patients Diagnosed in the Emergency Department with Kidney Stones*](https://jeremyprovance.github.io/assets/Ottman_Poster.pdf), Truman Medical Center Emergency Medicine Resident Research Day, 2018
+18. *The Effect of Language Barrier on Prescribing of Pain Medication for Patients Diagnosed in the Emergency Department with Kidney Stones*, Truman Medical Center Emergency Medicine Resident Research Day, 2018
 
-19. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), Saint Luke's Hospital Annual Research Day, 2018
+19. *Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*, Saint Luke's Hospital Annual Research Day, 2018
 
-20. [*Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research*](https://jeremyprovance.github.io/assets/2018-04-11_Poster.pdf), Midwest Bioinformatics Conference, 2018
+20. *Comparison of a National and a Local Electronic Health Data Warehouse for Clinical Laboratory Quality Improvement Research*, Midwest Bioinformatics Conference, 2018
 
-21. [*Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*](https://jeremyprovance.github.io/assets/2017-11-11_Poster.pdf), American Heart Association Scientific Sessions, 2017
+21. *Decisional Conflict in Peripheral Arterial Disease: Association with Treatment Choice and Health Status in the PORTRAIT Registry*, American Heart Association Scientific Sessions, 2017
 
 ------------------------------------------------------------------------
 
@@ -230,15 +232,15 @@ Teaching Assistant, Department of Biomedical & Health Informatics, UMKC School o
 
 *Guideline Directed Medical Therapy After Peripheral Vascular Intervention and One-Year Mortality in Patients with Peripheral Artery Disease in the Vascular Quality Initiative Medicare Linked Database*, 2021, Yale Cardiology Imaging Conference, Yale School of Medicine
 
-*Quality of Care and Outcomes in Patients with Critical Limb Ischemia: Derivation of a Nationwide Cerner Health Facts Vascular Datamart*, 2021, Yale Internal Medicine Faculty Research Forum, Yale School of Medicine \[[slides](https://jeremyprovance.github.io/assets/2021-04-28-Yale-Presentation.pdf)\]
+*Quality of Care and Outcomes in Patients with Critical Limb Ischemia: Derivation of a Nationwide Cerner Health Facts Vascular Datamart*, 2021, Yale Internal Medicine Faculty Research Forum, Yale School of Medicine
 
-*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics course, UMKC School of Medicine \[[slides](https://jeremyprovance.github.io/assets/2021-03-17_Medical-Informatics.pdf)\]
+*Clinical Research Informatics: Information Needs and Systems in the Clinical Research Environment*, 2021, Introduction to Medical Informatics course, UMKC School of Medicine
 
-[*Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches*](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145), 2019, Multi-disciplinary Seminar, UMKC School of Medicine \[[slides](https://jeremyprovance.github.io/assets/2019-09-24_Slides.pdf)\]
+[*Preparing Next-generation Scientists for Biomedical Big Data: Artificial Intelligence Approaches*](https://www.futuremedicine.com/doi/10.2217/pme-2018-0145), 2019, Multi-disciplinary Seminar, UMKC School of Medicine
 
 *Generalized Linear Mixed Models-Logistic Regression*, 2018, Biostatistics III, UMKC School of Medicine
 
-*Introduction to Digital Open Science*, 2018, Multi-disciplinary Seminar, UMKC School of Medicine \[[slides](https://jeremyprovance.github.io/assets/2018-10-23_Slides.pdf)\]
+*Introduction to Digital Open Science*, 2018, Multi-disciplinary Seminar, UMKC School of Medicine
 
 *Using Cerner i2b2 and Health Facts for Clinical Trials and General Research*, 2018, Clinical Trials, UMKC School of Medicine
 
@@ -345,7 +347,5 @@ Kansas Half Marathon *2014*
 Des Moines 5150 Triathlon *2012*
 
 ------------------------------------------------------------------------
-
-[Click here to generate a web PDF of this CV](https://jeremyprovance.github.io/cv/index.pdf)
 
 <center>Copyright © `r format(Sys.time(), '%Y')` Jeremy B Provance</center>
